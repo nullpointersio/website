@@ -22,7 +22,7 @@ title: Null Pointers
 email: info@nullpointers.ios
 description: >- # this means to ignore newlines until "baseurl:"
   Coming soon.
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "website" # the subpath of your site, e.g. /blog
 url: "https://nullpointersio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nullpointersio
 github_username:  nullpointersio
