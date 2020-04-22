@@ -18,7 +18,7 @@ avatar: /images/nullpointers.png
 # Podcast settings
 #
 
-keywords:       "technology, development, mobile, xamarin, .net, dotnet, nullpointer, nullpointers"
+keywords:       "technology, development, mobile, xamarin, .net, dotnet, null pointer, null pointers"
 
 explicit:       "no"
 type:           "serial" # 'serial' or 'episodic'
