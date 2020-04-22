@@ -9,7 +9,7 @@ name: Nullpointers
 author: Gerald, Mark & Steven
 
 # Short bio or description (displayed in the header)
-description: Pointing into the void
+description: Your opinionated podcast on development, tech and every day struggles
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/nullpointers.png
@@ -21,7 +21,7 @@ avatar: /images/nullpointers.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@nullpointers.com
+  email: info@nullpointers.io
   facebook:
   flickr:
   github: nullpointersio/website
