@@ -15,6 +15,25 @@ description: Your opinionated podcast on development, tech and every day struggl
 avatar: /images/nullpointers.png
 
 #
+# Podcast settings
+#
+
+keywords:       "technology, development, mobile, xamarin, .net, dotnet, nullpointer, nullpointers"
+
+explicit:       "no"
+type:           "serial" # 'serial' or 'episodic'
+
+lang:           "en"
+launch_date:	2020-04-20
+copyright:      "&#x2117; &amp; &#xA9; 2020"
+
+# podcast-feed:			"https://nullpointers/feed/podcast.rss"
+# apple-podcasts-feed:	"https://pcr.apple.com/asdf"
+# spotify-podcasts-feed:	"https://open.spotify.com/show/asdf"
+# overcast-podcasts-feed:	"https://overcast.fm/itunesXXX/nullpointers"
+# pocketcasts-podcasts-feed: "https://pca.st/itunes/XXX"
+
+#
 # Flags below are optional
 #
 
