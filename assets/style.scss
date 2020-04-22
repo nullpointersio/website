@@ -177,11 +177,12 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: $blue;
+  color: $purple;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $purple;
+    text-decoration: underline;
   }
 }
 
@@ -351,7 +352,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $purple;
     }
   }
 }
@@ -423,6 +424,15 @@ footer {
   text-align: center;
   display: flex;
   color: $white;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+
+  p{
+    margin:0;
+    padding:0;
+  }
 }
 
 body:after {
