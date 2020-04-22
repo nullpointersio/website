@@ -13,7 +13,8 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Teko');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
 
 html {
   font-size: 100%;
@@ -22,8 +23,8 @@ html {
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #404040;
+  font-family: "Libre Franklin", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #262525;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -38,7 +39,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Teko", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
   font-weight: bold;
 
@@ -279,8 +280,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 9em;
+  height: 4em;
   margin-right: 15px;
 
   @include mobile {
@@ -434,7 +435,8 @@ body:after {
 }
 
 #bar {
-    background: #000;
+  background: rgb(238,57,104);
+background: linear-gradient(50deg, rgba(238,57,104,1) 0%, rgba(102,54,149,1) 100%);
     height: 7px;
     background-size: cover;
     background-position: left 60%;
