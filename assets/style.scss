@@ -21,9 +21,9 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: "Anaheim", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #262525;
+  background: $white;
+  font-family: $anaheim;
+  color: $black;
   line-height: 1.7;
   font-weight: 400;
   font-size: 18px;
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Anaheim", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $anaheim;
   color: $darkerGray;
   font-weight: bold;
 
@@ -94,7 +94,7 @@ table {
 
 table tr {
 	border-top: 1px solid #cccccc;
-	background-color: white;
+	background-color: $white;
 	margin: 0;
 	padding: 0;
 }
@@ -308,7 +308,7 @@ p > img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $anaheim;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -332,7 +332,7 @@ p > img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $anaheim;
   font-size: 18px;
 
   @include mobile {
@@ -424,7 +424,7 @@ footer {
 }
 
 body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
+    background: linear-gradient(to right, $white   0, #2196F3   33%, #E91E63   66%, #000 100%);
     width: 100%;
     height: 5px;
     top: 0;
@@ -434,8 +434,8 @@ body:after {
 }
 
 #bar {
-  background: rgb(238,57,104);
-background: linear-gradient(50deg, rgba(238,57,104,1) 0%, rgba(102,54,149,1) 100%);
+    background: $pink;
+    background: linear-gradient(50deg, $pink 0%, $purple 100%);
     height: 7px;
     background-size: cover;
     background-position: left 60%;
@@ -447,7 +447,7 @@ background: linear-gradient(50deg, rgba(238,57,104,1) 0%, rgba(102,54,149,1) 100
 }
 
 .post h1{
-  font-family: "Anaheim",  -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $anaheim;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -456,7 +456,7 @@ background: linear-gradient(50deg, rgba(238,57,104,1) 0%, rgba(102,54,149,1) 100
 }
 
 .page h1{
-  font-family: "Anaheim", -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $anaheim;
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -569,7 +569,7 @@ Modules - reusable parts of our design
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 0 4px $white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
 .cd-timeline-img img {
   display: block;
@@ -628,7 +628,7 @@ Modules - reusable parts of our design
 }
 
 #carbonads {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: $anaheim;
   display: inline-block;
   overflow: hidden;
   max-width: 270px;
@@ -701,7 +701,7 @@ Modules - reusable parts of our design
   font-size: 14.5px;
   padding: 2px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: $purple;
   border-radius: 50px;
   color: #fff;
 }
@@ -711,7 +711,7 @@ Modules - reusable parts of our design
   border: 1px solid #eee;
   margin-left: -2px;
   margin-right: -2px;
-  background-color: #ffffff;
+  background-color: $white;
   display: inline-block;
 }
 
@@ -774,7 +774,7 @@ Modules - reusable parts of our design
 .subscribeBtn {
   width: 30%;
   background-color: #4CAF50;
-  color: white;
+  color: $white;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -927,7 +927,7 @@ Modules - reusable parts of our design
   float: right;
   padding: .8em 1em;
   background: #acb7c0;
-  color: white;
+  color: $white;
   border-radius: 0.25em;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
@@ -946,7 +946,7 @@ Modules - reusable parts of our design
   height: 0;
   width: 0;
   border: 7px solid transparent;
-  border-right: 7px solid white;
+  border-right: 7px solid $white;
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
@@ -972,7 +972,7 @@ Modules - reusable parts of our design
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: $white;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -993,7 +993,7 @@ Modules - reusable parts of our design
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: $white;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;
@@ -1140,6 +1140,5 @@ Modules - reusable parts of our design
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
-@import "darcula";
+@import "highlights";
 @import "svg-icons";
