@@ -435,6 +435,14 @@ footer {
   }
 }
 
+.muh-avatar {
+  border-radius: 50%;
+  height: 7rem;
+  border-width: 2px;
+  background: linear-gradient(50deg, $pink 0%, $purple 100%);
+  padding: 4px;
+}
+
 body:after {
     background: linear-gradient(to right, $white   0, #2196F3   33%, #E91E63   66%, #000 100%);
     width: 100%;
