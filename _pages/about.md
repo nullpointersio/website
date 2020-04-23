@@ -10,7 +10,15 @@ permalink: /about/
 
 ### Gerald Versluis
 
+<img src="{{ site.baseurl }}/images/gerald.png" alt="Gerald Versluis" class="muh-avatar" />
+
+He's a guy. That likes unicorns.
+
 ### Mark Allibone
+
+<img src="{{ site.baseurl }}/images/mark.png" alt="Mark Allibone" class="muh-avatar" />
+
+Guy from Switzerland. Might have nice chocolate.
 
 ### Steven Thewissen
 
