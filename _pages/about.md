@@ -12,7 +12,9 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/images/gerald.png" alt="Gerald Versluis" class="muh-avatar" />
 
-He's a guy. That likes pink fluffy unicorns.
+Hi! I’m Gerald Versluis, a software developer from the Netherlands. Besides just writing code, I also try to share my knowledge through [my blog](https://blog.verslu.is), [YouTube channel](https://youtube.com/GeraldVersluis), public speaking and writing books and articles. And now a podcast!
+
+I’m mainly focussing on creating apps, especially by the means of Xamarin and everything that has to do with it. But an app is not complete without a proper backend, right? So, I’m not afraid of some ASP.NET (Core) or other web applications. I also like to tinker around with all kinds of other things, like continuous delivery and continuous integration, everything Azure, a little bit of AI, etc. Have a look at my [GitHub account](https://github.com/jfversluis) for some of my work at a glance.
 
 ### Mark Allibone
 
