@@ -43,7 +43,7 @@ podcast-feed:			"https://nullpointers/feed/podcast.rss"
 image-path: /images/
 
 # Artwork
-podcast-artwork: "itunes-3000.png"
+podcast-artwork: "itunes-3000.jpg"
 
 #
 # Flags below are optional
