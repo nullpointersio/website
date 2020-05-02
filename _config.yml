@@ -27,7 +27,7 @@ explicit:       "no"
 type:           "serial" # 'serial' or 'episodic'
 
 lang:           "en"
-launch_date:	2020-04-20
+launch_date:	  2020-04-20
 copyright:      "&#x2117; &amp; &#xA9; 2020"
 
 podcast-feed:			"https://nullpointers/feed/podcast.rss"
@@ -35,6 +35,12 @@ podcast-feed:			"https://nullpointers/feed/podcast.rss"
 # spotify-podcasts-feed:	"https://open.spotify.com/show/asdf"
 # overcast-podcasts-feed:	"https://overcast.fm/itunesXXX/nullpointers"
 # pocketcasts-podcasts-feed: "https://pca.st/itunes/XXX"
+
+# Site Settings
+image-path: iamges
+
+# Artwork
+podcast-artwork: "itunes-3000.png"
 
 #
 # Flags below are optional
