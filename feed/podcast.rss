@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url | append: site.baseurl }}</link>
-			<url>{{ site.podcast-artwork | prepend: site.image-path | prepend: site.baseurl | prepend: site.url }}</url>
+			<url>{{ site.podcast-artwork | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.podcast-artwork | prepend: site.image-path | prepend: site.baseurl | prepend: site.url }}" />
+		<itunes:image href="{{ site.podcast-artwork | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}" />
 
 		<itunes:category text="Technology" />
 		
@@ -59,7 +59,7 @@
 			{% if episode.image %}
 			<itunes:image href="{{ episode.image | prepend: '/episode-images/' | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}" />
 			{% else %}
-			<itunes:image href="{{ 'itunes-3000.png' | prepend: site.image-path | prepend: site.baseurl | prepend: site.url }}" />
+			<itunes:image href="{{ 'itunes-3000.png' | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}" />
 			{% endif %}
 			<itunes:explicit>{{ episode.explicit }}</itunes:explicit>
 			<itunes:block>{{ episode.block }}</itunes:block>
