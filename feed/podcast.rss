@@ -33,7 +33,7 @@
 		
 		<itunes:explicit>{{ site.explicit }}</itunes:explicit>
 		
-		<itunes:type>{{ site.type }}</itunes:type>÷
+		<itunes:type>{{ site.type }}</itunes:type>
 
 		{% assign episodes = site.posts | sort_by: date | reverse %}
 		{% for episode in episodes %}
@@ -53,7 +53,7 @@
 			<itunes:author>{{ site.author }}</itunes:author>
 			<itunes:subtitle>{{ episode.subtitle | xml_escape }}</itunes:subtitle>
 			<itunes:summary>{{ episode.summary | xml_escape }}</itunes:summary>
-			<description></description>
+			<!-- <description></description> -->
 			<itunes:duration>{{ episode.duration }}</itunes:duration>
 			<itunes:keywords>{{ episode.keywords }}</itunes:keywords>
 			{% if episode.image %}

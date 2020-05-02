@@ -4,8 +4,8 @@
 
 # Name of your site (displayed in the header)
 name: Null Pointers
-title: Null Pointerss
-sub-title: Your opinionated podcast on development, tech and every day struggles
+title: Null Pointers
+subtitle: Your opinionated podcast on development, tech and every day struggles
 
 # Name of the author
 author: Gerald, Mark &amp; Steven
@@ -31,6 +31,7 @@ type:           "serial" # 'serial' or 'episodic'
 lang:           "en"
 launch_date:	  2020-04-20
 copyright:      "&#x2117; &amp; &#xA9; 2020"
+email: info@nullpointers.io
 
 podcast-feed:			"https://nullpointers/feed/podcast.rss"
 # apple-podcasts-feed:	"https://pcr.apple.com/asdf"
