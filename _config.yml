@@ -37,7 +37,7 @@ podcast-feed:			"https://nullpointers/feed/podcast.rss"
 # pocketcasts-podcasts-feed: "https://pca.st/itunes/XXX"
 
 # Site Settings
-image-path: iamges
+image-path: images
 
 # Artwork
 podcast-artwork: "itunes-3000.png"
