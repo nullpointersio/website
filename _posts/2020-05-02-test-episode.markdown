@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2020-05-02 00:00:00
+date: 			2020-05-01 00:00:00
 
 title: 			"Null Pointers Testepisode"
 subtitle: 		"Just some music."
