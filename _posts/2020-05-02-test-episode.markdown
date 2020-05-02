@@ -1,5 +1,5 @@
 ---
-layout: 		episode
+layout:         episode
 date: 			2020-05-02 00:00:00
 
 title: 			"Null Pointers Testepisode"
