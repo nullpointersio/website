@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url | append: site.baseurl }}</link>
-			<url>{{ site.podcast-artwork | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}</url>
+			<url>{{ site.podcast-artwork | prepend: site.image-path | prepend: site.baseurl | prepend: site.url }}</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
