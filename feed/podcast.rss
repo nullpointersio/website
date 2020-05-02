@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.podcast-artwork | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}" />
+		<itunes:image href="{{ site.podcast-artwork | prepend: site.image-path | prepend: site.baseurl | prepend: site.url }}" />
 
 		<itunes:category text="Technology" />
 		
