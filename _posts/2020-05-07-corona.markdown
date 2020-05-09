@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2020-05-07 00:00:00
+
+title: 			"Staying Home"
+subtitle: 		"Working from home during the Corona Pandemic."
+summary: 		"In the very first episode we will talk about how it is to work from home during these special times."
+
+description: 	"Staying home and working from home"
+
+season:			# Enter a number if applicable
+episode:		# Enter a number if applicable
+
+type:			full # "trailer" or "full"
+duration: 		"34:05" # audio length in min
+length: 		"65453576" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200427_00_Corona.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+In the very first episode we will talk about how it is to work from home during these special times. What has changed, what worked well and how it differs from a normal remote only job. We discuss different tools and approaches to keep the work going and the family happy.
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald](https://twitter.com/jfversluis), [Mark](https://twitter.com/mallibone) and [Steven](https://twitter.com/devnl).
+
+[Intro Music by Kevin MacLeod]: https://incompetech.filmmusic.io/song/4148-nowhere-land
