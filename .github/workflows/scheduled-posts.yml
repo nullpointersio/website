@@ -2,7 +2,7 @@ name: Build every hour
 
 on:
   schedule:
-   - cron: '* * * * *'
+   - cron: '57 * * * *'
 jobs:
   curl:
     runs-on: ubuntu-latest
