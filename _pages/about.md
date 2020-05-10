@@ -24,7 +24,7 @@ Living in Switzerland and working during the day on .NET Solutions with a focus 
 During my downtime, I like to do sports, learn new things, [blog](https://mallibone.com), hang out with friends and family or enjoy a walk with the dog.
 You can always find me on [Twitter](https://twitter.com/mallibone) or [GitHub](https://github.com/mallibone) 🙂
 
-Can be bribed: Coffee, chocolate, cookies and beer.
+Can be bribed with: Coffee, chocolate, cookies and beer.
 
 ### Steven Thewissen
 
