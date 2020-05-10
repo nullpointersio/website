@@ -21,8 +21,10 @@ I’m mainly focussing on creating apps, especially by the means of Xamarin and 
 <img src="{{ site.baseurl }}/images/mark.png" alt="Mark Allibone" class="muh-avatar" />
 
 Living in Switzerland and working during the day on .NET Solutions with a focus on mobile, IoT and web (mostly backend) development. I enjoy working in teams with an Agile/DevOps mindset and am always trying to improve the things that I am doing.
-During my downtime, I like to do sports, learn new things, blog, hang out with friends and family or enjoy a walk with the dog.
-Hope we will have the chance to meet in person at some point be it over some coffee, tea or beer 🙂
+During my downtime, I like to do sports, learn new things, [blog](https://mallibone.com), hang out with friends and family or enjoy a walk with the dog.
+You can always find me on [Twitter](https://twitter.com/mallibone) or [GitHub](https://github.com/mallibone) 🙂
+
+Can be bribed: Coffee, chocolate, cookies and beer.
 
 ### Steven Thewissen
 
