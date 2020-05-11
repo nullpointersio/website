@@ -25,6 +25,10 @@ block: 			"no" # means is shown in iTunes
 
 In the very first episode we will talk about how it is to work from home during these special times. What has changed, what worked well and how it differs from a normal remote only job. We discuss different tools and approaches to keep the work going and the family happy.
 
+Links:
+* [Scott Hanselmans Blog](https://www.hanselman.com/blog/QuarantineWorkIsNotRemoteWork.aspx)
+* [Phil Haack](https://haacked.com/archive/2020/03/03/how-to-work-from-home/)
+
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
 Your Hosts [Gerald](https://twitter.com/jfversluis), [Mark](https://twitter.com/mallibone) and [Steven](https://twitter.com/devnl).
