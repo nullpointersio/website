@@ -7,7 +7,7 @@
 		<atom:link href="{{ site.url | append: site.baseurl | append: '/feed/podcast.rss' }}" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
 		<description>{{ site.description | xml_escape }}</description>
-		<link>{{ site.url | append: site.baseurl }}/</link>
+		<link>{{ site.url | append: site.baseurl }}</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
@@ -15,7 +15,7 @@
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
-			<link>{{ site.url | append: site.baseurl }}/</link>
+			<link>{{ site.url | append: site.baseurl }}</link>
 			<url>{{ site.podcast-artwork | prepend: site.image-path | prepend: site.asset-path | prepend: site.baseurl | prepend: site.url }}</url>
 			<title>{{ site.title }}</title>
 		</image>

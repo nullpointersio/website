@@ -6,7 +6,7 @@ title: 			"Staying Home"
 subtitle: 		"Working from home during the Corona Pandemic."
 summary: 		"In the very first episode we will talk about how it is to work from home during these special times."
 
-description: 	"Staying home and working from home"
+description: 	"Working from home during the Corona Pandemic."
 
 type:			full # "trailer" or "full"
 duration: 		"34:05" # audio length in min
