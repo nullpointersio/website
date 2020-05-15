@@ -17,6 +17,7 @@ description: Your opinionated podcast on development, tech and every day struggl
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/nullpointers.png
+og: /images/og.png
 
 # Do not generate posts/episodes in the future
 future: false
