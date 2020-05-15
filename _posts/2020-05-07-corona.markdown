@@ -8,9 +8,6 @@ summary: 		"In the very first episode we will talk about how it is to work from 
 
 description: 	"Staying home and working from home"
 
-season:			# Enter a number if applicable
-episode:		# Enter a number if applicable
-
 type:			full # "trailer" or "full"
 duration: 		"34:05" # audio length in min
 length: 		"65453576" # filesize in byte
@@ -31,6 +28,6 @@ Links:
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
-Your Hosts [Gerald](https://twitter.com/jfversluis), [Mark](https://twitter.com/mallibone) and [Steven](https://twitter.com/devnl).
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
 
 [Intro Music by Kevin MacLeod]: https://incompetech.filmmusic.io/song/4148-nowhere-land
