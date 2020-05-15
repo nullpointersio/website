@@ -7,7 +7,7 @@
 		<atom:link href="{{ site.url | append: site.baseurl | append: '/feed/podcast.rss' }}" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
 		<description>{{ site.description | xml_escape }}</description>
-		<link>{{ site.url | append: site.baseurl }}</link>
+		<link>{{ site.url | append: site.baseurl }}/</link>
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
