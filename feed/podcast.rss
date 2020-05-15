@@ -4,6 +4,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
+		<atom:link href="{{ site.url | append: site.baseurl | append: '/feed/podcast.rss' }}" rel="self" type="application/rss+xml" />
 		<title>{{ site.title }}</title>
 		<description>{{ site.description | xml_escape }}</description>
 		<link>{{ site.url | append: site.baseurl }}</link>
@@ -42,10 +43,10 @@
 			<link>{{ site.url | append: site.baseurl | append: episode.url }}</link>
 			<pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
 			<itunes:episodeType>{{ episode.type }}</itunes:episodeType>
-			{% if episode.type == "full" %}
+			<!-- {% if episode.type == "full" %}
 			<itunes:episode>{{ episode.episode }}</itunes:episode>
 			<itunes:season>{{ episode.season }}</itunes:season>
-			{% endif %}
+			{% endif %} -->
 			<description>{{ episode.description | xml_escape }}</description>
 			<guid isPermaLink="true">{{ site.url | append: site.baseurl | append: episode.url }}</guid>
 			<enclosure url="{{ episode.file }}" length="{{ episode.length }}" type="{{ episode.file_type }}"/>
