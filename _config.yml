@@ -37,10 +37,11 @@ copyright:      "&#x2117; &amp; &#xA9; 2020"
 email: info@nullpointers.io
 
 podcast-feed:			"https://nullpointers.io/feed/podcast.rss"
-# apple-podcasts-feed:	"https://pcr.apple.com/asdf"
-# spotify-podcasts-feed:	"https://open.spotify.com/show/asdf"
-# overcast-podcasts-feed:	"https://overcast.fm/itunesXXX/nullpointers"
-# pocketcasts-podcasts-feed: "https://pca.st/itunes/XXX"
+apple-podcasts-feed:	"https://podcasts.apple.com/podcast/null-pointers/id1512641994"
+spotify-podcasts-feed:	"https://open.spotify.com/show/6X2km5VppEVYIdVjExWlgt?si=x3be9oJZRYKjfDxp_tTPhQ"
+overcast-podcasts-feed:	"https://overcast.fm/itunes1512641994/null-pointers"
+pocketcasts-podcasts-feed: "https://pca.st/podcast/7f97b040-74ca-0138-eddb-0acc26574db2"
+google-podcasts-feed: "https://podcasts.google.com/?feed=aHR0cHM6Ly9udWxscG9pbnRlcnMuaW8vZmVlZC9wb2RjYXN0LnJzcw"
 
 # Site Settings
 image-path: /images/
