@@ -42,6 +42,7 @@ spotify-podcasts-feed:	"https://open.spotify.com/show/6X2km5VppEVYIdVjExWlgt?si=
 overcast-podcasts-feed:	"https://overcast.fm/itunes1512641994/null-pointers"
 pocketcasts-podcasts-feed: "https://pca.st/podcast/7f97b040-74ca-0138-eddb-0acc26574db2"
 google-podcasts-feed: "https://podcasts.google.com/?feed=aHR0cHM6Ly9udWxscG9pbnRlcnMuaW8vZmVlZC9wb2RjYXN0LnJzcw"
+stitcher-podcasts-feed: "https://www.stitcher.com/podcast/null-pointers"
 
 # Site Settings
 image-path: /images/

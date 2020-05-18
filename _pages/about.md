@@ -35,3 +35,7 @@ A software developer from the Netherlands focusing on Xamarin development, craft
 ## Catch us on the socials!
 
 Twitter - [nullpointersio](https://www.twitter.com/nullpointersio)
+
+### Credits
+
+[Intro Music by Kevin MacLeod](https://incompetech.filmmusic.io/song/4148-nowhere-land). We've taken a short sample from the full sound file and use that clip as our tune. Thank you for allowing us to do so! If you ever read this Kevin, we owe you a drink!
