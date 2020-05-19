@@ -4,9 +4,9 @@ date: 			2020-05-20 00:00:00
 
 title: 			".NET 5"
 subtitle: 		"What to expect from the next version of .NET without the core."
-summary: 		"In this episode we will talk the .NET 5, which will be released later this year. How did we get hear, what will it mean and also some war stories from the past."
+summary: 		"In this episode we will talk about .NET 5, which will be released later this year. How did we get here, what will it mean and also some war stories from the past."
 
-description: 	".NET 5 is just around the corner, but what does this mean for .NET Core? What will it mean for mobile, desktop or library developers. Should you adopt to the new Framework? Tune in and find out what you can expect. We also look back at where we came from and what we personally expect from the upcoming release."
+description: 	"With a new .NET release just around the corner, what does this mean for .NET Core? What will it mean for mobile, desktop or library developers. Should you adopt the new Framework? Tune in and find out what you can expect. Also join us on a trip down memory lane. Where we will have a look back at where we came from and what we personally expect from the upcoming release."
 
 type:			full # "trailer" or "full"
 duration: 		"35:44" # audio length in min
@@ -20,7 +20,7 @@ explicit: 		"no" # other option is no
 block: 			"no" # means is shown in iTunes
 ---
 
-.NET 5 is just around the corner, but what does this mean for .NET Core? What will it mean for mobile, desktop or library developers. Should you adopt to the new Framework? Tune in and find out what you can expect. We also look back at where we came from and what we personally expect from the upcoming release.
+With a new .NET release just around the corner, what does this mean for .NET Core? What will it mean for mobile, desktop or library developers. Should you adopt the new Framework? Tune in and find out what you can expect. Also join us on a trip down memory lane. Where we will have a look back at where we came from and what we personally expect from the upcoming release.
 
 Links:
 * [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
