@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2020-06-10 00:00:00
+
+title: 			"Open Source Contributions"
+subtitle: 		"How to become an open source contributor?"
+summary: 		"In this episode we discuss how to become a open source contributor. What are the benefits and some of the challenges."
+
+description: 	"Ever considered contributing to an Open Source project? In this this episode we discuss about contributing to open source projects. We discuss why and how to get started, what different ways there are to contribute and some of the interpersonal pitfalls that can arise when taking part in your open source endeavour."
+
+type:			full # "trailer" or "full"
+duration: 		"31:08" # audio length in min
+length: 		"59788936" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200610_OSS.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [Xamarin Forms Repository](https://github.com/xamarin/Xamarin.Forms)
+* [Microsoft Docs on GitHub](https://github.com/MicrosoftDocs)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
