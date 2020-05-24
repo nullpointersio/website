@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2020-05-27 00:00:00
+
+title: 			"Recapping Microsoft Build 2020"
+subtitle: 		"Find out what's new, what we liked and what we didn't like."
+summary: 		"In this episode we will talk about all the stuff that was announced at Microsoft Build 2020. Features like Windows Terminal, Microsoft Learn, Codespaces and Azure Static Web Apps and even more awesome stuff all make an appearance in this episode."
+
+description: 	"In this episode we will talk about all the stuff that was announced at Microsoft Build 2020. Features like Windows Terminal, Microsoft Learn, Codespaces and Azure Static Web Apps and even more awesome stuff all make an appearance in this episode."
+
+type:			full # "trailer" or "full"
+duration: 		"40:38" # audio length in min
+length: 		"78012837" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200527_Build2020.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
+* [.NET 5 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-5-preview-4-and-our-journey-to-one-net/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
