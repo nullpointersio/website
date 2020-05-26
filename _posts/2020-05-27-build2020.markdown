@@ -23,8 +23,13 @@ block: 			"no" # means is shown in iTunes
 {{page.description}}
 
 Links:
-* [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
-* [.NET 5 Preview 4](https://devblogs.microsoft.com/dotnet/announcing-net-5-preview-4-and-our-journey-to-one-net/)
+* [Introducing .NET MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+* [Windows Package Manager Preview](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/)
+* [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
+* [Learn TV](https://docs.microsoft.com/en-us/learn/tv/)
+* [Azure Static Web Apps Preview](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
+* [HoloLens 2](https://www.microsoft.com/en-us/hololens/hardware)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
