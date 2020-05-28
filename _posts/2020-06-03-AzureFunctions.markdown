@@ -10,7 +10,7 @@ description: 	"Azure Functions have been around for a while and are Microsofts i
 
 type:			full # "trailer" or "full"
 duration: 		"32:57" # audio length in min
-length: 		"47455138" # filesize in byte
+length: 		"47455137" # filesize in byte
 
 file: 			"https://nullpointers.blob.core.windows.net/episodes/20200603_AzureFunctions.mp3"
 file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub

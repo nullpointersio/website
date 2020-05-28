@@ -9,8 +9,8 @@ summary: 		"In this episode we discuss how to become a open source contributor. 
 description: 	"Ever considered contributing to an Open Source project? In this this episode we discuss about contributing to open source projects. We discuss why and how to get started, what different ways there are to contribute and some of the interpersonal pitfalls that can arise when taking part in your open source endeavour."
 
 type:			full # "trailer" or "full"
-duration: 		"31:08" # audio length in min
-length: 		"59788936" # filesize in byte
+duration: 		"31:10" # audio length in min
+length: 		"44893448" # filesize in byte
 
 file: 			"https://nullpointers.blob.core.windows.net/episodes/20200610_OSS.mp3"
 file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
