@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2020-06-03 00:00:00
+date: 			2020-06-10 00:00:00
 
 title: 			"Azure Functions"
 subtitle: 		"What is serverless computing and what are Azure Functions?"
