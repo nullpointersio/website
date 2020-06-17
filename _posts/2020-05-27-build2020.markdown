@@ -2,7 +2,8 @@
 layout:         episode
 date: 			2020-05-27 00:00:00
 
-title: 			"Recapping Microsoft Build 2020"
+title: 			"3: Recapping Microsoft Build 2020"
+url:            "build2020"
 subtitle: 		"Find out what's new, what we liked and what we didn't like."
 summary: 		"In this episode we will talk about all the stuff that was announced at Microsoft Build 2020. Features like Windows Terminal, Microsoft Learn, Codespaces and Azure Static Web Apps and even more awesome stuff all make an appearance in this episode."
 

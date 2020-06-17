@@ -2,7 +2,8 @@
 layout:         episode
 date: 			2020-05-20 00:00:00
 
-title: 			".NET 5"
+title: 			"2: .NET 5"
+url:            "dotnet50"
 subtitle: 		"What to expect from the next version of .NET without the core."
 summary: 		"In this episode we will talk about .NET 5, which will be released later this year. How did we get here, what will it mean and also some war stories from the past."
 

@@ -2,11 +2,12 @@
 layout:         episode
 date: 			2020-06-10 00:00:00
 
-title: 			"Azure Functions"
+title: 			"4: Azure Functions"
+url:            "azurefunctions"
 subtitle: 		"What is serverless computing and what are Azure Functions?"
-summary: 		"Azure Functions have been around for a while and are Microsofts implementation of serverless computing. In this episode, we learn what Azure Functions are all about. Also, we will will share with you our warstories from our own experience."
+summary: 		"Azure Functions have been around for a while and are Microsoft's implementation of serverless computing. In this episode, we learn what Azure Functions are all about. Also, we will share with you our war stories from our own experience."
 
-description: 	"Azure Functions have been around for a while and are Microsofts implementation of serverless computing. In this episode, we learn what Azure Functions are all about. Also, we will will share with you our warstories from our own experience."
+description: 	"Azure Functions have been around for a while and are Microsoft's implementation of serverless computing. In this episode, we learn what Azure Functions are all about. Also, we will share with you our war stories from our own experience."
 
 type:			full # "trailer" or "full"
 duration: 		"32:57" # audio length in min
