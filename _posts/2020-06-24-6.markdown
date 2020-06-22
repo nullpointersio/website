@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2020-06-24 00:00:00
+
+title: 			"6: Mobile DevOps: The Good, The Bad & The Ugly"
+url:            "6"
+subtitle: 		"Improve your development flow with Mobile DevOps"
+summary: 		"In our sixth episode we discuss mobile DevOps, how we use it to improve our development flow and what we like and dislike about it."
+
+description: 	"We're all mobile developers here and to get our apps out there for the world to enjoy (we hope) you can do a lot of manual labor or automate it. That's what we're going to be talking about today: automating your entire app lifecycle using DevOps: the good, the bad and the ugly. We there also happens to be three of us, so we'll leave it up to you to decide who's who."
+
+type:			full # "trailer" or "full"
+duration: 		"49:28" # audio length in min
+length: 		"94987832" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200624_MobileDevOps.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [Xamarin Forms repository](https://github.com/xamarin/Xamarin.Forms)
+* [Microsoft Docs on GitHub](https://github.com/MicrosoftDocs)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
