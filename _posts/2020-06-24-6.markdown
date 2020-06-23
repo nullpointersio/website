@@ -24,9 +24,13 @@ block: 			"no" # means is shown in iTunes
 {{page.description}}
 
 Links:
-* [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+* [Azure DevOps](https://azure.microsoft.com/en-us/services/devops)
 * [AppCenter](https://appcenters.ms)
+* [AppCenter UI Testing](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest)
 * [BitRise](https://www.bitrise.io/mobile-devops)
+* [CAKE](https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/)
+* [FAKE](http://fsharp.github.io/FAKE)
+* [Google Analytics/Firebase](https://firebase.google.com/docs/analytics)
 * [Mobile.BuildTools](https://github.com/dansiegel/Mobile.BuildTools)
 * [TestFlight](https://developer.apple.com/testflight)
 
