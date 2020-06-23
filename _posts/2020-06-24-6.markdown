@@ -24,8 +24,11 @@ block: 			"no" # means is shown in iTunes
 {{page.description}}
 
 Links:
-* [Xamarin Forms repository](https://github.com/xamarin/Xamarin.Forms)
-* [Microsoft Docs on GitHub](https://github.com/MicrosoftDocs)
+* [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
+* [AppCenter](https://appcenters.ms)
+* [BitRise](https://www.bitrise.io/mobile-devops)
+* [Mobile.BuildTools](https://github.com/dansiegel/Mobile.BuildTools)
+* [TestFlight](https://developer.apple.com/testflight)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
