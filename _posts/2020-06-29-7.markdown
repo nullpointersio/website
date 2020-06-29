@@ -7,7 +7,7 @@ url:            "7"
 subtitle: 		"How to approach mobile design"
 summary: 		"In our seventh episode we discuss our takeaways from WWDC 2020 and mobile design. Our takes and tips on how to approach designing your next mobile app."
 
-description: 	"After sharing our thoughts on the news from Apples WWDC 2020 event - including our take on the new macOS design and icons. We will pick Stevens brain on how to approach designing a mobile app. What are the things to be aware of and what tools do we use. Also design is not only what meets the eye but should also keep in mind how to enable to use the app for visually impaired users."
+description: 	"After sharing our thoughts on the news from Apples WWDC 2020 event - including our take on the new macOS design and icons, we will pick Stevens brain on how to approach designing a mobile app. What are the things to be aware of and what tools do we use. Also, a good design is not only what meets the eye but should also keep in mind how to enable to use the app for visually impaired users."
 
 type:			full # "trailer" or "full"
 duration: 		"33:55" # audio length in min
