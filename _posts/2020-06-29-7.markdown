@@ -1,0 +1,48 @@
+---
+layout:         episode
+date: 			2020-07-01 00:00:00
+
+title: 			"7: Mobile Design: Going in style"
+url:            "7"
+subtitle: 		"How to approach mobile design"
+summary: 		"In our seventh episode we discuss our takeaways from WWDC 2020 and mobile design. Our takes and tips on how to approach designing your next mobile app."
+
+description: 	"After sharing our thoughts on the news from Apples WWDC 2020 event - including our take on the new macOS design and icons. We will pick Stevens brain on how to approach designing a mobile app. What are the things to be aware of and what tools do we use. Also design is not only what meets the eye but should also keep in mind how to enable to use the app for visually impaired users."
+
+type:			full # "trailer" or "full"
+duration: 		"33:55" # audio length in min
+length: 		"65140451" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200628_MobileDesign.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [Apple WWDC 2020](https://developer.apple.com/wwdc20/)
+* Control vendors
+  * [Grial Kit](https://grialkit.com/)
+  * [telerik](https://www.telerik.com/xamarin-ui)
+  * [syncfusion](https://www.syncfusion.com/xamarin-ui-controls)
+* Design languages
+  * [Fluent](https://www.microsoft.com/design/fluent/#/)
+  * [Material](https://material.io/design/)
+* Design Reference Sites
+  * [Uplabs](https://www.uplabs.com/)
+  * [Good Looking UI](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI) by [@javier](https://twitter.com/jsuarezruiz)
+  * [Snppts.dev](https://snppts.dev/)
+* Design Tools/Collaboration
+  * [Figma](https://www.figma.com/)
+  * [Adobe XD](https://www.adobe.com/products/xd.html)
+  * [Adobe XD to Xamarin Forms](https://github.com/kphillpotts/XDtoXF) by [@kphillpotts](https://twitter.com/kphillpotts)
+
+
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
