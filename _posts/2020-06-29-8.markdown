@@ -1,0 +1,43 @@
+---
+layout:         episode
+date: 			2020-07-08 00:00:00
+
+title: 			"8: (Mobile) Security"
+url:            "8"
+subtitle: 		"Everything we know about (mobile) security"
+summary: 		"Episode eight is all about security. We talk about certificates, OAuth, how Gerald got hacked, Have I Been Pwned and security specific to mobile apps."
+
+description: 	"In this episode we share some things we know about security in general, but also specific to mobile apps. Gerald had a hacking incident on one of his web apps which basically triggered us to explore what we actually know about security. It's very easy to make a mistake and the internet is very unforgiving, please (or bots?) will exploit it very fast. Other than that we talk about SQL injection, open redirects, Have I Been Pwned, certificates and more!"
+
+type:			full # "trailer" or "full"
+duration: 		"37:46" # audio length in min
+length: 		"38132053" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200708_MobileSecurity.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [CFP Exchange](https://cfp.exchange)
+* [CFP Exchange Hacked Twitter Thread](https://twitter.com/JanMulkens/status/1269736139679817731)
+* [OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)
+* [SQL Injection](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A1-Injection)
+* [Let's Encrypt](https://letsencrypt.org/)
+* [Steven's MSAL blog post](https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/)
+* [Microsoft Authentication Library](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview)
+* [Session by Kerry Lothrop (XamExpertDay 2017)](https://www.youtube.com/watch?v=tFIauxeQbB4&list=PLfbOp004UaYUs1OdRA-4EYpi3S8onUv9P&index=7)
+* [Xamarin Show with Kerry Lothrop](https://www.youtube.com/watch?v=blTFwasG21U)
+* [Troy Hunt](https://www.troyhunt.com/)
+* [Have I been Pwned](https://haveibeenpwned.com/)
+* [Scott Hanselman RED Team podcast episode](https://hanselminutes.simplecast.com/episodes/red-teaming-with-leron-gray-3irmuYGK)
+* [OWASP Mobile](https://owasp.org/www-project-mobile-security/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
