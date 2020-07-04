@@ -5,9 +5,9 @@ date: 			2020-07-08 00:00:00
 title: 			"8: (Mobile) Security"
 url:            "8"
 subtitle: 		"Everything we know about (mobile) security"
-summary: 		"Episode eight is all about security. We talk about certificates, OAuth, how Gerald got hacked, Have I Been Pwned and security specific to mobile apps."
+summary: 		"Episode eight is all about security. We talk about certificates, OAuth, how Gerald got hacked, Have I Been Pwned and security-specific to mobile apps."
 
-description: 	"In this episode we share some things we know about security in general, but also specific to mobile apps. Gerald had a hacking incident on one of his web apps which basically triggered us to explore what we actually know about security. It's very easy to make a mistake and the internet is very unforgiving, please (or bots?) will exploit it very fast. Other than that we talk about SQL injection, open redirects, Have I Been Pwned, certificates and more!"
+description: 	"In this episode, we share some things we know about security in general, but also specific to mobile apps. Gerald had a hacking incident on one of his web apps which triggered us to explore what we actually know about security. It's quite easy to make a mistake, and the internet is very unforgiving, people (or bots?) will exploit it in no time. Other than that we talk about SQL injection, open redirects, Have I Been Pwned, certificates and more!"
 
 type:			full # "trailer" or "full"
 duration: 		"37:46" # audio length in min
