@@ -5,9 +5,9 @@ date: 			2020-07-15 00:00:00
 title: 			"9: Coded vs Structured UI"
 url:            "9"
 subtitle: 		"Which one do you prefer?"
-summary: 		"In this ninth episode we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
+summary: 		"In this ninth episode, we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
 
-description: 	"In this ninth episode we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
+description: 	"In this ninth episode, we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
 
 type:			full # "trailer" or "full"
 duration: 		"40:32" # audio length in min
