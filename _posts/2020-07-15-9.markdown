@@ -1,0 +1,38 @@
+---
+layout:         episode
+date: 			2020-07-15 00:00:00
+
+title: 			"9: Coded vs Structured UI"
+url:            "9"
+subtitle: 		"Which one do you prefer?"
+summary: 		"In this ninth episode we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
+
+description: 	"In this ninth episode we talk about creating our apps in either coded UI using C# or using a dedicated markup language like XAML. We highlight the advantages and disadvantages and our personal preferences."
+
+type:			full # "trailer" or "full"
+duration: 		"40:32" # audio length in min
+length: 		"77835622" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200715_CodedUIvsMarkup.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is no
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [GitTrends](https://github.com/brminnick/GitTrends)
+* [C# For Markup](https://github.com/VincentH-Net/CSharpForMarkup)
+* [Comet](https://github.com/Clancey/Comet)
+* [Fabulous](https://fsprojects.github.io/Fabulous/)
+* [Zeplin](https://www.zeplin.io)
+* [Figma](https://www.figma.com)
+* [Adobe XD](https://www.adobe.com/nl/products/xd.html)
+* [Bohdan Benetskyi: Less with Xamarin.Forms](https://medium.com/@benetskyybogdan/less-with-xamarin-forms-efb9ad76cc1a)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
