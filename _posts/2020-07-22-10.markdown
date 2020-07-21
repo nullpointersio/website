@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2020-07-22 00:00:00
+
+title: 			"10: C#"
+url:            "10"
+subtitle: 		"The past, the present and the future"
+summary: 		"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode we reminiscent about when we first started using C#, what features had the largest impact on us and what we are looking forward to in the upcoming version of C#."
+
+description: 	"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode we reminiscent about when we first started using C#, what features had the largest impact on us and what we are looking forward to in the upcoming version of C#."
+
+type:			full # "trailer" or "full"
+duration: 		"29:58" # audio length in min
+length: 		"23717527" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200612_CSharp_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+* [C# History](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+* [C# 9](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
