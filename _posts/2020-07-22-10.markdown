@@ -5,9 +5,9 @@ date: 			2020-07-22 00:00:00
 title: 			"10: C#"
 url:            "10"
 subtitle: 		"The past, the present and the future"
-summary: 		"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode we reminiscent about when we first started using C#, what features had the largest impact on us and what we are looking forward to in the upcoming version of C#."
+summary: 		"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode, we reminiscent about when we first started using C#, what features had the most substantial impact on us and what we are looking forward to in the upcoming version of C#."
 
-description: 	"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode we reminiscent about when we first started using C#, what features had the largest impact on us and what we are looking forward to in the upcoming version of C#."
+description: 	"In our tenth episode, we talk about C# - the programming language that allows us to pay our bills. In this episode, we reminiscent about when we first started using C#, what features had the most substantial impact on us and what we are looking forward to in the upcoming version of C#."
 
 type:			full # "trailer" or "full"
 duration: 		"29:58" # audio length in min
