@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2020-07-29 00:00:00
+
+title: 			"11: Gadgets"
+url:            "11"
+subtitle: 		"You don't need it, but still love _and_ buy it: gadgets"
+summary: 		"Episode number eleven is all about gadgets. Are they all absolutely necessary? Definitely not. Are they fun? YEAH! We talk about some of the most essentials ones like phones and headphones, but also smart speakers, watches, sports and even some non-digital gadgets. Don't trust your devices with Steven though, he will destroy it."
+
+description: 	"Episode number eleven is all about gadgets. Are they all absolutely necessary? Definitely not. Are they fun? YEAH! We talk about some of the most essentials ones like phones and headphones, but also smart speakers, watches, sports and even some non-digital gadgets. Don't trust your devices with Steven though, he will destroy it."
+
+type:			full # "trailer" or "full"
+duration: 		"46:47" # audio length in min
+length: 		"41449464" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200729_Gadgets.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+_Nothing really useful for this episode. We're sure you know where to buy your gadgets._
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
