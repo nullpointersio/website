@@ -1,0 +1,45 @@
+---
+layout:         episode
+date: 			2020-08-05 00:00:00
+
+title: 			"12: MVVM"
+url:            "12"
+subtitle: 		"Let's talk Model View ViewModel"
+summary: 		"Episode number twelve and we are putting on our architecture outfits to discuss the Model View ViewModel, or MVVM for short, pattern. We discuss the advantages, libraries, touch on some good old Inversion of Control. And to make sure you stay until the end - Gerald was so kind to provide us with an Easter egg."
+
+description: 	"Episode number twelve and we are putting on our architecture outfits to discuss the Model View ViewModel, or MVVM for short, pattern. We discuss the advantages, libraries, touch on some good old Inversion of Control. And to make sure you stay until the end - Gerald was so kind to provide us with an Easter egg."
+
+type:			full # "trailer" or "full"
+duration: 		"35:45" # audio length in min
+length: 		"28978859" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200805_MVVM_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Xamarin.Forms 4.7 release notes](https://devblogs.microsoft.com/xamarin/xamarin-forms-4-7/)
+- [Xamarin.Forms Grid simplified](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/simplifying-xamarin-forms-grid-column-row-definitions/)  by [Gerald](https://twitter.com/jfversluis)
+- [GitHub Artic Vault]( https://archiveprogram.github.com/)
+- [Surface Duo coming soon?](https://www.theverge.com/2020/7/24/21336882/microsoft-surface-duo-launch-date-fcc-certifications-rumors) by the Verge
+- [FreshMvvm]( https://github.com/rid00z/FreshMvvm)
+
+- [MvvmCross](https://www.mvvmcross.com/)
+- [Prism](https://prismlibrary.com/index.html)
+- [MvvmLight](http://www.mvvmlight.net/)
+- [TinyMvvm](https://github.com/TinyStuff/TinyMvvm)
+- [ReactiveUI](https://www.reactiveui.net/)
+- [Splat](https://github.com/reactiveui/splat)
+- [Locator Pattern with Splat](https://www.reactiveui.net/docs/handbook/dependency-inversion/)
+- [GitTrends performace collectionview](https://codetraveler.io/2020/07/12/improving-collectionview-scrolling/) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
