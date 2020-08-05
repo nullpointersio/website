@@ -39,6 +39,8 @@ Links:
 - [Splat](https://github.com/reactiveui/splat)
 - [Locator Pattern with Splat](https://www.reactiveui.net/docs/handbook/dependency-inversion/)
 - [GitTrends performace collectionview](https://codetraveler.io/2020/07/12/improving-collectionview-scrolling/) by [Brandon Minnick](https://twitter.com/TheCodeTraveler)
+- [Autofac vs TinyIoC](https://danielhindrikes.se/index.php/2020/06/17/autofac-vs-tinyioc/) by [Daniel Hindrikes](https://twitter.com/hindrikes)
+- [IoC Container Performance](https://xamarinhelp.com/ioc-container-performance/) by Adam Pedley
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
