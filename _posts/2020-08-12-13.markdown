@@ -1,0 +1,41 @@
+---
+layout:         episode
+date: 			2020-08-12 00:00:00
+
+title: 			"12: Mobile Data Storage"
+url:            "12"
+subtitle: 		"Store all the data!"
+summary: 		"If you own a mobile phone, chances are that there is data stored on it somewhere. There are hardly any apps around today that don't need some form of data storage, so how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
+
+description: 	"If you own a mobile phone, chances are that there is data stored on it somewhere. There are hardly any apps around today that don't need some form of data storage, so how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
+
+type:			full # "trailer" or "full"
+duration: 		"44:49" # audio length in min
+length: 		"37864327" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200812_DataStorage_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Xamarin.Essentials Secure Storage](https://docs.microsoft.com/en-us/xamarin/essentials/secure-storage)
+- [SQLite](https://sqlite.org/index.html)
+- [LiteDB](https://www.litedb.org)
+- [MonkeyCache](https://github.com/jamesmontemagno/monkey-cache)
+- [Akavache](https://github.com/reactiveui/Akavache)
+- [Reactive UI](https://github.com/reactiveui)
+- [Realm](https://realm.io/)
+- [Shiny](https://github.com/shinyorg/shiny) 
+- [Polly](http://www.thepollyproject.org/)
+- [HTTP caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
