@@ -5,9 +5,9 @@ date: 			2020-08-12 00:00:00
 title: 			"12: Mobile Data Storage"
 url:            "12"
 subtitle: 		"Store all the data!"
-summary: 		"If you own a mobile phone, chances are that there is data stored on it somewhere. There are hardly any apps around today that don't need some form of data storage, so how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
+summary: 		"If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don't store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
 
-description: 	"If you own a mobile phone, chances are that there is data stored on it somewhere. There are hardly any apps around today that don't need some form of data storage, so how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
+description: 	"If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don't store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
 
 type:			full # "trailer" or "full"
 duration: 		"44:49" # audio length in min
