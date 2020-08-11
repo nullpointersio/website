@@ -2,8 +2,8 @@
 layout:         episode
 date: 			2020-08-12 00:00:00
 
-title: 			"12: Mobile Data Storage"
-url:            "12"
+title: 			"13: Mobile Data Storage"
+url:            "13"
 subtitle: 		"Store all the data!"
 summary: 		"If you own a mobile phone, the chances are that there is data stored on it somewhere. Few apps are around these days that don't store data in some form. But how is that done? What caveats are there to it, and what about caching or syncing data back to a backend? All of that and more on this episode!"
 
