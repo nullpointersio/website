@@ -1,0 +1,42 @@
+---
+layout:         episode
+date: 			2020-08-19 00:00:00
+
+title: 			"14: Dark Mode"
+url:            "14"
+subtitle: 		"Going Dark"
+summary: 		"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your poket. But what is it all about? Saving the planet due to reduction of energy? A design fad? Well join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or where they that good? What ever your take is, we hope you enjoy this dark episode!"
+
+description: 	"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your poket. But what is it all about? Saving the planet due to reduction of energy? A design fad? Well join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or where they that good? What ever your take is, we hope you enjoy this dark episode!"
+
+type:			full # "trailer" or "full"
+duration: 		"35:01" # audio length in min
+length: 		"31126451" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200817_Darkmode.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- App Store Drama
+  - [Fortnite Apple Appstore](https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments)  & [Goolge Playstore](https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation) via [TheVerge](https://theverge.com)
+  - [Hey Email](https://www.theverge.com/2020/6/16/21293419/hey-apple-rejection-ios-app-store-dhh-gangsters-antitrust) via [TheVerge](https://theverge.com)
+  - [Facebook](https://www.theverge.com/2020/8/7/21358355/facebook-apple-app-store-policies-comments-facebook-gaming-ios) via [TheVerge](https://theverge.com)
+- [Loosing sleep due to screen time](https://www.webmd.com/sleep-disorders/news/20030620/nighttime-computer-users-may-lose-sleep)
+- [Nokia 920](https://en.wikipedia.org/wiki/Nokia_Lumia_920)
+- [Android Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)
+- [iOS Dark Theme](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode/)
+- [System colours iOS](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
+- [Xamarin.Forms AppTheme binding](https://devblogs.microsoft.com/xamarin/app-themes-xamarin-forms/)
+- [SynthWave the font with glow effect](https://github.com/robb0wen/synthwave-vscode) by Robb Owen
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
