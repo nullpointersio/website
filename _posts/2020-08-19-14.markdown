@@ -5,9 +5,9 @@ date: 			2020-08-19 00:00:00
 title: 			"14: Dark Mode"
 url:            "14"
 subtitle: 		"Going Dark"
-summary: 		"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your poket. But what is it all about? Saving the planet due to reduction of energy? A design fad? Well join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or where they that good? What ever your take is, we hope you enjoy this dark episode!"
+summary: 		"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your pocket. But what is it all about? Save the planet due to reduced power usage? A design fad? Well, join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or were they that good? Whatever your take is, we hope you enjoy this dark episode!"
 
-description: 	"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your poket. But what is it all about? Saving the planet due to reduction of energy? A design fad? Well join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or where they that good? What ever your take is, we hope you enjoy this dark episode!"
+description: 	"Dark Mode seems to be a trend that is getting more and more momentum. It has taken over designs on the interwebs, desktop computers, tablets and even the beloved phone in your pocket. But what is it all about? Save the planet due to reduced power usage? A design fad? Well, join us in this weeks episode where we discuss our thoughts on Dark Mode and go off on some history tangents of the good old days. Or were they that good? Whatever your take is, we hope you enjoy this dark episode!"
 
 type:			full # "trailer" or "full"
 duration: 		"35:01" # audio length in min
