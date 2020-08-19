@@ -31,6 +31,7 @@ Links:
   - [Facebook](https://www.theverge.com/2020/8/7/21358355/facebook-apple-app-store-policies-comments-facebook-gaming-ios) via [TheVerge](https://theverge.com)
 - [Loosing sleep due to screen time](https://www.webmd.com/sleep-disorders/news/20030620/nighttime-computer-users-may-lose-sleep)
 - [Nokia 920](https://en.wikipedia.org/wiki/Nokia_Lumia_920)
+- [When Phones were fun](https://www.youtube.com/watch?v=u05gxIWYv8k&list=PLwd8abTO4vh2smuMzykXDOPNnsxhHC4Oh) by [Michael Fisher](https://www.youtube.com/channel/UCSOpcUkE-is7u7c4AkLgqTw)
 - [Android Dark Theme](https://developer.android.com/guide/topics/ui/look-and-feel/darktheme)
 - [iOS Dark Theme](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/dark-mode/)
 - [System colours iOS](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
