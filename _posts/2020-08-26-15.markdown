@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2020-08-26 00:00:00
+
+title: 			"15: Xamarin Community Toolkit"
+url:            "15"
+subtitle: 		"Xamarin Community Toolkit"
+summary: 		"In this episode, we talk about the Xamarin Community Toolkit. You will get a scoop of the origins and how it came about. What the intentions are behind it and how it differs compared to the other well known Xamarin Essentials library. Be sure to tune in and have all the knowledge ready should the Xamarin Community Toolkit become the discussion topic of your next (remote) party."
+
+description: 	"In this episode, we talk about the Xamarin Community Toolkit. You will get a scoop of the origins and how it came about. What the intentions are behind it and how it differs compared to the other well known Xamarin Essentials library. Be sure to tune in and have all the knowledge ready should the Xamarin Community Toolkit become the discussion topic of your next (remote) party."
+
+type:			full # "trailer" or "full"
+duration: 		"36:02" # audio length in min
+length: 		"30269373" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200826_XamarinCommunityToolkit_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Xamarin Community Toolkit on GitHub](https://github.com/xamarin/XamarinCommunityToolkit)
+- [Xamarin Essentials on GitHub](https://github.com/xamarin/Essentials)
+- [An introduction to the Xamarin Community Toollkit](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/microsoft-toolkit-xamarin-forms-introduction/) by [Gerald Versluis](https://twitter.com/jfversluis)
+- [Windows Community Toolkit on GitHub](https://github.com/windows-toolkit/WindowsCommunityToolkit)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
