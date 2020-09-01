@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2020-09-02 00:00:00
+
+title: 			"16: Exceptions"
+url:            "16"
+subtitle: 		"Crashing your code since forever"
+summary: 		"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions is what it's all about. Why should you care? How does exception handling even work internally? How should you handle exceptions? All good questions which are answered with a good amount of dad jokes that get some pity laughs."
+
+description: 	"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions is what it's all about. Why should you care? How does exception handling even work internally? How should you handle exceptions? All good questions which are answered with a good amount of dad jokes that get some pity laughs."
+
+type:			full # "trailer" or "full"
+duration: 		"40:42" # audio length in min
+length: 		"39216644" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200902_Exceptions.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Xamarin Community Toolkit on GitHub](https://github.com/xamarin/XamarinCommunityToolkit)
+- [Exception Performance](https://docs.microsoft.com/dotnet/standard/design-guidelines/exceptions-and-performance)
+- [Jon Skeet said exceptions are expensive, so it's true](https://www.developerfusion.com/article/5250/exceptions-and-performance-in-net/)
+- [Polly 🦜](https://github.com/App-vNext/Polly)
+- [Visual Studio App Center](https://visualstudio.microsoft.com/app-center/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
