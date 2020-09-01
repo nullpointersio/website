@@ -5,9 +5,9 @@ date: 			2020-09-02 00:00:00
 title: 			"16: Exceptions"
 url:            "16"
 subtitle: 		"Crashing your code since forever"
-summary: 		"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions is what it's all about. Why should you care? How does exception handling even work internally? How should you handle exceptions? All good questions which are answered with a good amount of dad jokes that get some pity laughs."
+summary: 		"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions are what it's all about. Why should you care? How does exception handling even work internally? Should you care about handling exceptions? All good questions which are answered with a fair amount of dad jokes that get some pity laughs."
 
-description: 	"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions is what it's all about. Why should you care? How does exception handling even work internally? How should you handle exceptions? All good questions which are answered with a good amount of dad jokes that get some pity laughs."
+description: 	"All episodes of Null Pointers are great, and this episode is no exception. In this episode, exceptions are what it's all about. Why should you care? How does exception handling even work internally? Should you care about handling exceptions? All good questions which are answered with a fair amount of dad jokes that get some pity laughs."
 
 type:			full # "trailer" or "full"
 duration: 		"40:42" # audio length in min
