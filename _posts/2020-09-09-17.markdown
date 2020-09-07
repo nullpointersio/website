@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2020-09-09 00:00:00
+
+title: 			"17: GitHub Codespaces"
+url:            "17"
+subtitle: 		"Never wait hours for IDE installations again!"
+summary: 		"The next big thing since sliced bread is here and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces you can get to a successful build before your first coffee is done. Learn all about it in this episode."
+
+description: 	"The next big thing since sliced bread is here and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces you can get to a successful build before your first coffee is done. Learn all about it in this episode."
+
+type:			full # "trailer" or "full"
+duration: 		"33:49" # audio length in min
+length: 		"32569793" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200909_Codespaces.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Visual Studio Codespaces is consolidating into GitHub Codespaces](https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/)
+- [VS Code](https://code.visualstudio.com/)
+- [Cascadia Code Font](https://github.com/microsoft/cascadia-code)
+- [GitHub Codespaces](https://github.com/features/codespaces)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
