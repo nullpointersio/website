@@ -5,9 +5,9 @@ date: 			2020-09-09 00:00:00
 title: 			"17: GitHub Codespaces"
 url:            "17"
 subtitle: 		"Never wait hours for IDE installations again!"
-summary: 		"The next big thing since sliced bread is here and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces you can get to a successful build before your first coffee is done. Learn all about it in this episode."
+summary: 		"The next big thing since sourdough bread is here, and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces, you can get to a successful build before your first coffee is done. Learn all about it in this episode."
 
-description: 	"The next big thing since sliced bread is here and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces you can get to a successful build before your first coffee is done. Learn all about it in this episode."
+description: 	"The next big thing since sourdough bread is here, and it's called GitHub Codespaces. With Codespaces, you can go from looking at a bug to contributing to the repo in a matter of minutes. Or how about onboarding a new colleague? Hours looking at installers to get the right workloads? No more! With Codespaces, you can get to a successful build before your first coffee is done. Learn all about it in this episode."
 
 type:			full # "trailer" or "full"
 duration: 		"33:49" # audio length in min
