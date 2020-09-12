@@ -1,0 +1,37 @@
+---
+layout:         episode
+date: 			2020-09-16 00:00:00
+
+title: 			"18: AI"
+url:            "18"
+subtitle: 		"Artificial Intelligence"
+summary: 		"Artificial Intelligence or AI for short is all around us it seems. Is it here to solve all our problems or are we looking at the next Skynet? Ever wondered what is behind all of the AI talk? What would it take to add some AI to your apps? Well, in this episode we will talk about all those topics and how you can get started today without having to through years of study."
+
+description: 	"Artificial Intelligence or AI for short is all around us it seems. Is it here to solve all our problems or are we looking at the next Skynet? Ever wondered what is behind all of the AI talk? What would it take to add some AI to your apps? Well, in this episode we will talk about all those topics and how you can get started today without having to through years of study."
+
+type:			full # "trailer" or "full"
+duration: 		"31:39" # audio length in min
+length: 		"28321751" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200916_AI.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Background Noise Removal](https://www.youtube.com/watch?v=Q-mETIjcIV0) by [Barnacules](https://twitter.com/barnacules)
+- [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Core ML](https://developer.apple.com/documentation/coreml)
+- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
+
