@@ -1,0 +1,37 @@
+---
+layout:         episode
+date: 			2020-09-23 00:00:00
+
+title: 			"19: Version Control"
+url:            "19"
+subtitle: 		"Manage your code efficiently"
+summary: 		"Version control. A thing of beauty or a thing of frustration? Or maybe even both. In this episode we try to demistify some of the things around Git, share our warstories of yesteryear and try to make sense of why everyone should be using it."
+
+description: 	"ersion control. A thing of beauty or a thing of frustration? Or maybe even both. In this episode we try to demistify some of the things around Git, share our warstories of yesteryear and try to make sense of why everyone should be using it."
+
+type:			full # "trailer" or "full"
+duration: 		"39:57" # audio length in min
+length: 		"32786434" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200923_VersionControl_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+
+- [Git @ Google – Linus Torrvvvalds](https://www.youtube.com/watch?v=4XpnKHJAok8)
+- [Difference between TFVC / Git](https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/comparison-git-tfvc?view=azure-devops)
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Gerald ❤️ Rebase](https://blog.verslu.is/git/git-rebase/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
+
