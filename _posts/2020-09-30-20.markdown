@@ -1,0 +1,42 @@
+---
+layout:         episode
+date: 			2020-09-30 00:00:00
+
+title: 			"20: Home Office Setups"
+url:            "20"
+subtitle: 		"An episode with actually not that much about home office setups"
+summary: 		"In this episode we talk a lot about our love for Ubiquiti network equipment, Raspberry Pi's, backing up data, how Mark is always last to say his name and some smart home stuff. It was supposed to be about our Home Office Setup, but I think we drifted off into all things we find awesome."
+
+description: 	"In this episode we talk a lot about our love for Ubiquiti network equipment, Raspberry Pi's, backing up data, how Mark is always last to say his name and some smart home stuff. It was supposed to be about our Home Office Setup, but I think we drifted off into all things we find awesome."
+
+type:			full # "trailer" or "full"
+duration: 		"40:28" # audio length in min
+length: 		"38568260" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20200930_HomeOfficeSetup.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Ubiquiti Website](https://www.ui.com/)
+- [Power over Ethernet](https://wikipedia.org/wiki/Power_over_Ethernet)
+- [Network Attached Storage](https://wikipedia.org/wiki/Network_Attached_Storage)
+- [Scott Hanselman Backup Blog](https://www.hanselman.com/blog/IsYourStuffBackedUpRecoveringFromAHardwareFailure.aspx)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Remove ad tracking with Pi-Hole](https://pi-hole.net/)
+- [Home Assistant](https://www.home-assistant.io/)
+- [Tado Heating](https://www.tado.com/)
+- [Philips Hue](https://www.philips-hue.com/)
+- [Nest](https://nest.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
+
