@@ -1,0 +1,38 @@
+---
+layout:         episode
+date: 			2020-10-07 00:00:00
+
+title: 			"21: Going cross-platform"
+url:            "21"
+subtitle: 		"An episodes packed with thoughts and experiences around cross-platform apps."
+summary: 		"In this episode, we talk about writing cross-platform apps. What are the approaches? What are the pros and cons you might want to consider? And is there a right way? Well tune in and find out."
+
+description: 	"In this episode, we talk about writing cross-platform apps. What are the approaches? What are the pros and cons you might want to consider? And is there a right way? Well tune in and find out."
+
+type:			full # "trailer" or "full"
+duration: 		"38:35" # audio length in min
+length: 		"35349886" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201007_XPlat.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+
+- [Social Dilemma Movie](https://www.netflix.com/title/81254224) on Netflix
+- [Indistractable](https://www.nirandfar.com/indistractable/) by [Nir Eyal](https://twitter.com/nireyal)
+- [Progressive Web Application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
+- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
+
