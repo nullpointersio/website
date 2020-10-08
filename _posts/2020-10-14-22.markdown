@@ -1,0 +1,38 @@
+---
+layout:         episode
+date: 			2020-10-14 00:00:00
+
+title: 			"22: .NET Maui"
+url:            "22"
+subtitle: 		"Finally, it's the .NET Maui episode!"
+summary: 		"In this episode, we finally talk about .NET Maui, also known as the future of Xamarin.Forms. What's coming and more importantly, when is it coming? We will tell you all about it!"
+
+description: 	"In this episode, we finally talk about .NET Maui, also known as the future of Xamarin.Forms. What's coming and more importantly, when is it coming? We will tell you all about it!"
+
+type:			full # "trailer" or "full"
+duration: 		"41:42" # audio length in min
+length: 		"35068630" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201014_Maui_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [James Clancey's XamExpertDay talk](https://www.youtube.com/watch?v=9kwrgm_-FCk)
+- [David Ortinau's XamExpertDay talk](https://www.youtube.com/watch?v=qbHO8J3bId0)
+- [Javier Suarez Ruiz' Xamarin.Forms goodlooking UI](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI)
+- [Resizetizer NT](https://github.com/Redth/ResizetizerNT)
+- [Javier Suarez Ruiz' TabView](https://github.com/roubachof/Sharpnado.Presentation.Forms)
+- [Javier Suarez Ruiz' TemplateUI](https://github.com/jsuarezruiz/TemplateUI)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
+
+Ukulele lick by turkitron from [Freesound](https://freesound.org/people/turkitron/sounds/110603/).
