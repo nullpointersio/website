@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2020-10-14 00:00:00
+date: 			2020-10-13 00:00:00
 
 title: 			"22: .NET Maui"
 url:            "22"
