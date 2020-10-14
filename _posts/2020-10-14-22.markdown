@@ -13,7 +13,7 @@ type:			full # "trailer" or "full"
 duration: 		"41:42" # audio length in min
 length: 		"35068630" # filesize in byte
 
-file: 			"https://nullpointers.blob.core.windows.net/episodes/20201014_Maui_mono.mp3"
+file: 			"https://nullpointers.blob.core.windows.net/episodes/2071014_Maui_mono.mp3"
 file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
 
 explicit: 		"no" # other option is yes
