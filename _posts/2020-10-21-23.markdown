@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2020-10-21 00:00:00
+
+title: 			"23: WebAssembly and Blazor"
+url:            "23"
+subtitle: 		"How to use C# in your browser"
+summary: 		"In this episode we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh and by the way... Did you decide on a new iPhone yet?"
+
+description: 	"In this episode we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh and by the way... Did you decide on a new iPhone yet?"
+
+type:			full # "trailer" or "full"
+duration: 		"39:19" # audio length in min
+length: 		"38186540" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201021_WebAssembly.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [Web Apps can’t really do *that*, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10)
+- [Ooui by Frank Krueger](https://github.com/praeclarum/Ooui)
+- [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr)
+- [ASP.NET History (DotNetCurry Magazine Article)](https://www.dotnetcurry.com/aspnet/1492/aspnet-history-part-1)
+- [Blazor Mobile Bindings](https://docs.microsoft.com/mobile-blazor-bindings/)
+- [Blazor Hybrid Bindings](https://devblogs.microsoft.com/aspnet/hybrid-blazor-apps-in-mobile-blazor-bindings-july-update/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
