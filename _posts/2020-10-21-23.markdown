@@ -5,9 +5,9 @@ date: 			2020-10-21 00:00:00
 title: 			"23: WebAssembly and Blazor"
 url:            "23"
 subtitle: 		"How to use C# in your browser"
-summary: 		"In this episode we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh and by the way... Did you decide on a new iPhone yet?"
+summary: 		"In this episode, we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology, you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh, and by the way... Did you decide on a new iPhone yet?"
 
-description: 	"In this episode we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh and by the way... Did you decide on a new iPhone yet?"
+description: 	"In this episode, we are talking about WebAssembly and a bit more specifically about Blazor as well. With this hot new technology, you can get rid of JavaScript and just write C# that runs everywhere. Frontend, backend, topend, bottomend, happy end! Oh, and by the way... Did you decide on a new iPhone yet?"
 
 type:			full # "trailer" or "full"
 duration: 		"39:19" # audio length in min
