@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2020-10-28 00:00:00
+
+title: 			"24: Testing your apps"
+url:            "24"
+subtitle: 		"Making sure things run as they should."
+summary: 		"In this episode, we are discussing what approaches you can take to test your hard coded work. From TDD to BDD we discuss a few of the common Acronym Driven Development approaches and what benefits you want to expect when writing automated code."
+
+description: 	"In this episode, we are discussing what approaches you can take to test your hard coded work. From TDD to BDD we discuss a few of the common Acronym Driven Development approaches and what benefits you want to expect when writing automated code."
+
+type:			full # "trailer" or "full"
+duration: 		"40:33" # audio length in min
+length: 		"36339328" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201028_Testing.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [.Net Conf Agenda](https://www.dotnetconf.net/agenda)
+- [A QA Engineer walks into a bar](https://www.reddit.com/r/Jokes/comments/4oh40o/a_qa_engineer_walks_into_a_bar_and_orders_a_beer/)
+- [Test Pyramid by Martin Fowler](https://martinfowler.com/bliki/TestPyramid.html)
+- [Crowd Testing](https://en.wikipedia.org/wiki/Crowdsourced_testing)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
