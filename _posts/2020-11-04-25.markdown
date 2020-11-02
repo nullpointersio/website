@@ -5,9 +5,9 @@ date: 			2020-11-04 00:00:00
 title: 			"25: Xamarin.Forms 5"
 url:            "25"
 subtitle: 		"The end of an era?"
-summary: 		"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From there it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
+summary: 		"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From here on out, it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
 
-description: 	"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From there it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
+description: 	"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From here on out, it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
 
 type:			full # "trailer" or "full"
 duration: 		"38:40" # audio length in min
