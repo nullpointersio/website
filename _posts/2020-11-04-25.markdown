@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2020-11-04 00:00:00
+
+title: 			"25: Xamarin.Forms 5"
+url:            "25"
+subtitle: 		"The end of an era?"
+summary: 		"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From there it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
+
+description: 	"Xamarin.Forms 5 is announced to be the last major version of Forms in its current form. From there it will evolve into the .NET framework and continue to bring us joy that way. But, what is actually in the Forms 5 package? What can we look forward to? Find out in this episode!"
+
+type:			full # "trailer" or "full"
+duration: 		"38:40" # audio length in min
+length: 		"36135713" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201104_XamarinForms5.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [Xamarin.Forms 5 Blog Post](https://devblogs.microsoft.com/xamarin/xamarin-forms-5-preview/)
+- [Xamarin Show Episode Xamarin.Forms 5](https://www.youtube.com/watch?v=ttF80UnrJAg)
+- [.NET Conf: focus on Xamarin session Javier & Gerald](https://www.youtube.com/watch?v=QFNmLE7pVl4&t=5176s)
+- [Null Pointers Episode Xamarin Community Toolkit](https://nullpointers.io/15/)
+- [Null Pointers Episode .NET MAUI](https://nullpointers.io/22/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen (but not really this time)](https://twitter.com/devnl).
