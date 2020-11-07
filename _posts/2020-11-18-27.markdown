@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2020-11-18 00:00:00
+
+title: 			"27: Staying up to date"
+url:            "27"
+subtitle: 		"Did you hear about the latest great thing?"
+summary: 		"Staying up to date in our ever changing techworld is no small feat. It may even feel a bit overwhelming at times. In this episode we discuss how we like to stay informed while trying to miss out on purpose. How we do it? Well you will have to tune in to this weeks episode."
+
+description: 	"Staying up to date in our ever changing techworld is no small feat. It may even feel a bit overwhelming at times. In this episode we discuss how we like to stay informed while trying to miss out on purpose. How we do it? Well you will have to tune in to this weeks episode."
+
+type:			full # "trailer" or "full"
+duration: 		"31:47" # audio length in min
+length: 		"28172129" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201118_StayingUpToDate.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [Twitter](https://twitter.com/nullpointersio)
+- [Microsoft Developer Blogs](https://devblogs.microsoft.com/)
+- [Pocket](https://app.getpocket.com/)
+- [What books are for](https://en.wikipedia.org/wiki/Book) by Wikipedia
+- [Learn a thing or two with Gerald on YouTube](https://www.youtube.com/channel/UCBBZ2kXWmd8eXlHg2wEaClw)
+- [Looking up science papers with Google Scholar](https://scholar.google.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
