@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2020-11-11 00:00:00
+
+title: 			"26: Monitoring and Logging"
+url:            "26"
+subtitle: 		"Did you hear about the latest great thing?"
+summary: 		"Getting insights into how your application is doing once it's out in the wild is essential if you want to act on problems quickly. That's where logging and monitoring comes into play! Tune in to this weeks episode to learn more."
+
+description: 	"Getting insights into how your application is doing once it's out in the wild is essential if you want to act on problems quickly. That's where logging and monitoring comes into play! Tune in to this weeks episode to learn more."
+
+type:			full # "trailer" or "full"
+duration: 		"41:23" # audio length in min
+length: 		"34035362" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201111_MonitoringAndLogging_mono.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [Raspberry Pie keyboard computer](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features)
+- [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+- [Grafana](https://grafana.com/)
+- [Kibana](https://www.elastic.co/kibana)
+- [Stevens Xamarin Insights Blogpost](https://www.thewissen.io/farewell-xamarin-insights/)
+- 
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
