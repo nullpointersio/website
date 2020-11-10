@@ -4,7 +4,7 @@ date: 			2020-11-11 00:00:00
 
 title: 			"26: Monitoring and Logging"
 url:            "26"
-subtitle: 		"Did you hear about the latest great thing?"
+subtitle: 		"Do you know how your app is doing?"
 summary: 		"Getting insights into how your application is doing once it's out in the wild is essential if you want to act on problems quickly. That's where logging and monitoring comes into play! Tune in to this weeks episode to learn more."
 
 description: 	"Getting insights into how your application is doing once it's out in the wild is essential if you want to act on problems quickly. That's where logging and monitoring comes into play! Tune in to this weeks episode to learn more."
