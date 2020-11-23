@@ -11,7 +11,7 @@ description: 	"With the Apple M1 chip coming out in their latest line of Macs, a
 
 type:			full # "trailer" or "full"
 duration: 		"31:59" # audio length in min
-length: 		"31217089" # filesize in byte
+length: 		"31148754" # filesize in byte
 
 file: 			"https://nullpointers.blob.core.windows.net/episodes/20201125_ARM.mp3"
 file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
