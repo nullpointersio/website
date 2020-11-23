@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2020-11-25 00:00:00
+
+title: 			"28: ARM-based Devices/Apple M1"
+url:            "28"
+subtitle: 		"Intel is done for, or are they?"
+summary: 		"With the Apple M1 chip coming out in their latest line of MacBooks, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with the power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
+
+description: 	"With the Apple M1 chip coming out in their latest line of MacBooks, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with the power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
+
+type:			full # "trailer" or "full"
+duration: 		"31:59" # audio length in min
+length: 		"31217089" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201125_ARM.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [ARM Architecture (Wikipedia)](https://en.wikipedia.org/wiki/ARM_architecture)
+- [.NET Conf](https://www.dotnetconf.net/)
+- [.NET 5 Episode](https://nullpointers.io/dotnet50/)
+- [Apple M1 (according to Apple)](https://www.apple.com/mac/m1/)
+- [9to5mac.com M1 Benchmarks](https://9to5mac.com/2020/11/17/apple-m1-benchmarks-translate-real-world-performance/)
+- [ARM Templates, which have nothing to do with this](https://docs.microsoft.com/azure/azure-resource-manager/templates/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
