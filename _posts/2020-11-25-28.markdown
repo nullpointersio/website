@@ -5,9 +5,9 @@ date: 			2020-11-25 00:00:00
 title: 			"28: ARM-based Devices/Apple M1"
 url:            "28"
 subtitle: 		"Intel is done for, or are they?"
-summary: 		"With the Apple M1 chip coming out in their latest line of MacBooks, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with the power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
+summary: 		"With the Apple M1 chip coming out in their latest line of Macs, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
 
-description: 	"With the Apple M1 chip coming out in their latest line of MacBooks, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with the power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
+description: 	"With the Apple M1 chip coming out in their latest line of Macs, all focus is back on ARM. This non-compatible competitor of Intel is blowing everyone away with power efficiency as well as speed. Could this be the final blow for Intel? And are we getting some new hardware ourselves anytime soon?"
 
 type:			full # "trailer" or "full"
 duration: 		"31:59" # audio length in min
