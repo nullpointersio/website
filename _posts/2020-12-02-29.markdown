@@ -1,0 +1,39 @@
+---
+layout:         episode
+date: 			2020-12-02 00:00:00
+
+title: 			"29: Custom Controls"
+url:            "29"
+subtitle: 		"If you can't buy it, build it!"
+summary: 		"Did you ever wonder about why you should build your own controls and not just grab the ones on the shelf? So do we! So in this episode we will explore this topic a bit further to see what our experiences are and we take a look at some do's and don'ts."
+
+description: 	"Did you ever wonder about why you should build your own controls and not just grab the ones on the shelf? So do we! So in this episode we will explore this topic a bit further to see what our experiences are and we take a look at some do's and don'ts."
+
+type:			full # "trailer" or "full"
+duration: 		"34:33" # audio length in min
+length: 		"28931939" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201202_CustomControls.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [Dribbble](https://dribbble.com/)
+- [CameraView](https://github.com/xamarin/XamarinCommunityToolkit/pulls?q=is%3Apr+cameraview+is%3Aclosed)
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView)
+- [Syncfusion Community license](https://www.syncfusion.com/products/communitylicense)
+- [Telerik](https://www.telerik.com/)
+- [Aurora controls](https://auroracontrols.app/)
+- [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)
+- [Sharpnado](https://sharpnado.com)
+- [GrialKit](https://grialkit.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
