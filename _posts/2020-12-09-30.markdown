@@ -1,0 +1,39 @@
+---
+layout:         episode
+date: 			2020-12-09 00:00:00
+
+title: 			"30: Mobile Payment"
+url:            "30"
+subtitle: 		"It's all about the money 🎶"
+summary: 		"In this episode, we discuss mobile payment. Since COVID-19 has made contactless payment the prefered standard, so has mobile payment been used by more and more people. In this episode, we discuss mobile payment challenges in our everyday life as humans, tech-enthusiasts and developers."
+
+description: 	"In this episode, we discuss mobile payment. Since COVID-19 has made contactless payment the prefered standard, so has mobile payment been used by more and more people. In this episode, we discuss mobile payment challenges in our everyday life as humans, tech-enthusiasts and developers."
+
+type:			full # "trailer" or "full"
+duration: 		"32:58" # audio length in min
+length: 		"29165704" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201209_MobilePayment.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [The Mandalorian](https://en.wikipedia.org/wiki/The_Mandalorian)
+
+- [Apple Pay](https://www.apple.com/apple-pay/)
+
+- [Tikkie 🇳🇱](https://www.tikkie.me/)
+
+- [Twint 🇨🇭](https://www.twint.ch/en/)
+
+- [Revolut](https://www.revolut.com)
+
+  Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
