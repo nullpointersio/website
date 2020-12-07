@@ -32,6 +32,8 @@ Links:
 
 - [Twint 🇨🇭](https://www.twint.ch/en/)
 
+- [Mollie](https://www.mollie.com/en)
+
 - [Revolut](https://www.revolut.com)
 
   Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
