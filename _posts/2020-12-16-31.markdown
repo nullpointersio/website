@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2020-12-16 00:00:00
+
+title: 			"31: Responsive Mobile Design"
+url:        "31"
+subtitle: 	"Flex it! 💪"
+summary: 		"It's great that all the technologies in the world now let us write once and run anywhere, but how does that work for designs? In this episode we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
+
+description: 	"It's great that all the technologies in the world now let us write once and run anywhere, but how does that work for designs? In this episode we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
+
+type:			full # "trailer" or "full"
+duration: 		"34:58" # audio length in min
+length: 		"31843756" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201216_ResponsiveMobileDesign.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+Links:
+- [MonkeyConf Sessions](https://www.youtube.com/channel/UCCmLmBtMV2MlSCC-3fq0LUg/videos)
+- [Bootstrap](https://getbootstrap.com)
+- [Windows 8 Interface and Desktop](https://en.wikipedia.org/wiki/Windows_8#Interface_and_desktop)
+- [Run iOS apps on Apple M1 MacBooks](https://www.theverge.com/2020/11/18/21574207/how-to-install-run-any-iphone-ipad-app-m1-mac)
+- [Xamarin.Forms FlexLayout](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/layouts/flex-layout)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
