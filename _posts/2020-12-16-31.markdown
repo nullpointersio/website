@@ -5,9 +5,9 @@ date: 			2020-12-16 00:00:00
 title: 			"31: Responsive Mobile Design"
 url:        "31"
 subtitle: 	"Flex it! 💪"
-summary: 		"It's great that all the technologies in the world now let us write once and run anywhere, but how does that work for designs? In this episode we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
+summary: 		"It's great that all the technologies in the world now let us write once and run anywhere. But how does that work for designs? In this episode, we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
 
-description: 	"It's great that all the technologies in the world now let us write once and run anywhere, but how does that work for designs? In this episode we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
+description: 	"It's great that all the technologies in the world now let us write once and run anywhere. But how does that work for designs? In this episode, we are talking about responsive mobile design. Did we ever deal with it? How do we feel about it and how to go about it? All of this and Xboxes, a bit of F# and advent beer calendars too! And what's with Mark and his tiny fingers...?"
 
 type:			full # "trailer" or "full"
 duration: 		"34:58" # audio length in min
@@ -24,6 +24,7 @@ block: 			"no" # means is shown in iTunes
 {{page.description}}
 
 Links:
+- [Advent of Code](https://adventofcode.com/)
 - [MonkeyConf Sessions](https://www.youtube.com/channel/UCCmLmBtMV2MlSCC-3fq0LUg/videos)
 - [Bootstrap](https://getbootstrap.com)
 - [Windows 8 Interface and Desktop](https://en.wikipedia.org/wiki/Windows_8#Interface_and_desktop)
