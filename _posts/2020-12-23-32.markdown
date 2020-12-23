@@ -5,9 +5,9 @@ date: 			2020-12-23 00:00:00
 title: 			"32: Nerd X-Mas"
 url:        "32"
 subtitle: 	"Holidays for nerds"
-summary: 		"The holiday season isn't complete if you can't sprinkle some nerd on it. In this episode we talk about all things we do or have for the holidays that sprinkle just a little bit of nerd on top."
+summary: 		"TThe holiday season isn't complete if you can't sprinkle some nerd on it. In this episode, we talk about all things we do or have for the holidays that sprinkle just a little bit of nerd on top."
 
-description: 	"The holiday season isn't complete if you can't sprinkle some nerd on it. In this episode we talk about all things we do or have for the holidays that sprinkle just a little bit of nerd on top."
+description: 	"The holiday season isn't complete if you can't sprinkle some nerd on it. In this episode, we talk about all things we do or have for the holidays that sprinkle just a little bit of nerd on top."
 
 type:			full # "trailer" or "full"
 duration: 		"40:14" # audio length in min
@@ -25,12 +25,13 @@ block: 			"no" # means is shown in iTunes
 
 Links:
 
-- [Troy Hunt](https://www.troyhunt.com)
+- [Troy Hunts Blogseries on IoT](https://www.troyhunt.com)
 - [Microsoft Ugly Sweaters](https://gear.xbox.com/pages/windows?ocid=Evergreen_soc_omc_xbo_tw_Photo_buy_HolidaySweater) 
 - [Martin Woodward Tree Lighting IoT](https://twitter.com/martinwoodward/status/1337434936769437696) 
 - [Meadow](https://www.wildernesslabs.co/)
 - [Lidl Christmas Lights](https://allhomecinema.com/review-lidl-smart-home-starter-set-and-smart-christmas-lighting/)
 - [Wim Hof aka The Ice Man](https://www.wimhofmethod.com/)
+- [Real World Functional Programming](https://www.manning.com/books/real-world-functional-programming)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
