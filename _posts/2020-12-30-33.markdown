@@ -1,0 +1,30 @@
+---
+layout:         episode
+date: 			2020-12-30 00:00:00
+
+title: 			"33: Holiday Update"
+url:        "33"
+subtitle: 	"Holiday Update"
+summary: 		"We are taking a break this week and are enjoying our time.. indoors with the family. That does not prevent us from eating just a bit too much. But just in case you missed the soothing sound of Geralds Voice - here is a short episode for you dear listener. Stay safe and until next week. 🙂"
+
+description: 	"We are taking a break this week and are enjoying our time.. indoors with the family. That does not prevent us from eating just a bit too much. But just in case you missed the soothing sound of Geralds Voice - here is a short episode for you dear listener. Stay safe and until next week. 🙂"
+
+type:			full # "trailer" or "full"
+duration: 		"1:31" # audio length in min
+length: 		"1239449" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20201230_Christmas.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+We will be back next week - that's all for now folks.
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
