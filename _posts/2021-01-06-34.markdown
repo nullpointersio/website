@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-01-06 00:00:00
+
+title: 			"34: I18N and L10N"
+url:        "34"
+subtitle: 	"Internationalization and Localization"
+summary: 		"Steven is currently in the process of localizing the unofficial Microsoft MVP App. So we took this opportunity to discuss I18N and L10N. What is there to look out for and what things can you localize within your app. And is using Icons cheating? Well tune in and find out our opinions."
+
+description: 	"Steven is currently in the process of localizing the unofficial Microsoft MVP App. So we took this opportunity to discuss I18N and L10N. What is there to look out for and what things can you localize within your app. And is using Icons cheating? Well tune in and find out our opinions."
+
+type:			full # "trailer" or "full"
+duration: 		"38:30" # audio length in min
+length: 		"34053785" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210106_I18nL10n.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [The unofficial MVP App](https://github.com/sthewissen/MVP)
+* [A definition for i18n and l10n by Mozilla](https://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/)
+* [Deepl.com](https://www.deepl.com)
+* [ResXManager for Visual Studio](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
+* [Rider](https://www.jetbrains.com/rider/)
+* [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
