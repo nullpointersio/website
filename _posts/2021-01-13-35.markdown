@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-01-13 00:00:00
+
+title: 			"35: Multimedia on Mobile"
+url:        "35"
+subtitle: 	"Lights, camera, action!"
+summary: 		"Multimedia is all around us! We can't think of a single app that does not have some form of multimedia: images, sounds or even videos. We don't even notice anymore! But how hard is it to use it in your own app? Find out all about it in this episode!"
+
+description: 	"Multimedia is all around us! We can't think of a single app that does not have some form of multimedia: images, sounds or even videos. We don't even notice anymore! But how hard is it to use it in your own app? Find out all about it in this episode!"
+
+type:			full # "trailer" or "full"
+duration: 		"36:29" # audio length in min
+length: 		"34919782" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210113_Multimedia.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Xamarin.Forms 5 Launch Party](https://www.youtube.com/watch?v=-J4iQ1hHDQw)
+* [Xamarin.CommunityToolkit MediaElement](https://github.com/xamarin/XamarinCommunityToolkit/blob/main/samples/XCT.Sample/Pages/Views/MediaElementPage.xaml)
+* [Mark Toothbrusing Live Photo](https://twitter.com/mallibone/status/1339588139870900225?s=21)
+* [ExoPlayer](https://github.com/Baseflow/ExoPlayerXamarin)
+* [VLC Media Player](https://en.wikipedia.org/wiki/VLC_media_player)
+* [BlurHash](https://stu.dev/blurhash-on-xamarin/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
