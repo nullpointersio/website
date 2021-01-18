@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-01-20 00:00:00
+
+title: 			"36: Messaging Apps"
+url:        "36"
+subtitle: 	"You've got mail! Or a message..."
+summary: 		"Messaging apps are all around. Look on your phone and you might have more of them than you'd initially think. With the recent Whatsapp privacy discussion we thought it'd be good to dive into this topic a bit further. So join us for the ride!"
+
+description: 	"Messaging apps are all around. Look on your phone and you might have more of them than you'd initially think. With the recent Whatsapp privacy discussion we thought it'd be good to dive into this topic a bit further. So join us for the ride!"
+
+type:			full # "trailer" or "full"
+duration: 		"40:24" # audio length in min
+length: 		"33895769" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210120_MessagingApps.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [WhatApp Privacy Policy changes](https://www.theverge.com/2021/1/15/22233257/whatsapp-privacy-policy-update-delayed-three-months)
+* [Geralds ancient device](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HTC_Herald_PDA_Phone.JPG/1200px-HTC_Herald_PDA_Phone.JPG)
+* [Signal](https://signal.org/)
+* Sources from Mark looking into how apps will make revenue:
+   * [Telegram](https://en.wikipedia.org/wiki/Telegram_(software)#Monetization)
+   * [Signal]() 
+* [Signal donation](https://signal.org/donate/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
