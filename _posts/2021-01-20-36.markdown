@@ -26,9 +26,8 @@ block: 			"no" # means is shown in iTunes
 * [WhatApp Privacy Policy changes](https://www.theverge.com/2021/1/15/22233257/whatsapp-privacy-policy-update-delayed-three-months)
 * [Geralds ancient device](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HTC_Herald_PDA_Phone.JPG/1200px-HTC_Herald_PDA_Phone.JPG)
 * [Signal](https://signal.org/)
-* Sources from Mark looking into how apps will make revenue:
-   * [Telegram](https://en.wikipedia.org/wiki/Telegram_(software)#Monetization)
-   * [Signal]() 
+* [How was Telegram financed](https://en.wikipedia.org/wiki/Telegram_(software)#Monetization)
+* [How is Telegram planning to be financed](https://techcrunch.com/2020/12/23/telegram-to-launch-an-ad-platform-as-it-approaches-500-million-users/) 
 * [Signal donation](https://signal.org/donate/)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
