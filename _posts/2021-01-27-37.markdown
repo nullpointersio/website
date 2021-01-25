@@ -1,0 +1,36 @@
+---
+ßlayout:         episode
+date: 			2021-01-27 00:00:00
+
+title: 			"37: ßBots"
+url:        "37"
+subtitle: 	"Beep Bop"
+summary: 		"The idea of being able to have a conversation with our computing devices is nothing new. Going down memorylane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression."
+
+description: 	"The idea of being able to have a conversation with our computing devices is nothing new. Going down memorylane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression."
+
+type:			full # "trailer" or "full"
+duration: 		"40:05" # audio length in min
+length: 		"35516255" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210127_Bots.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [WhatsApp delays privacy policy](https://www.theverge.com/2021/1/15/22233257/whatsapp-privacy-policy-update-delayed-three-months) by [TheVerge](https://twitter.com/verge)
+* [Telegram Open API](https://core.telegram.org/api)
+* [Discord Bots API](https://discord.com/developers/docs/intro)
+* [Microsoft Teams API](https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-bot)
+* [Slack Bot API](https://api.slack.com/bot-users)
+* [Solarwinds Hack](https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity) by [TheVerge](https://twitter.com/verge)
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
