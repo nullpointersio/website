@@ -2,7 +2,7 @@
 ßlayout:         episode
 date: 			2021-01-27 00:00:00
 
-title: 			"37: ßBots"
+title: 			"37: 🤖 Bots"
 url:        "37"
 subtitle: 	"Beep Bop"
 summary: 		"The idea of being able to have a conversation with our computing devices is nothing new. Going down memorylane to early IRC days all the way back to the present using AI to try and pass the Turing Test. In this episode we discuss our experiences, opinions and give our best Bot beep impression."
