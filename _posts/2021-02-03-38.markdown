@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-02-03 00:00:00
+
+title: 			"38: Resiliency In Mobile Apps"
+url:        "38"
+subtitle: 	"Fragile! Handle with care"
+summary: 		"Crashing apps, everyone hates them! So in this episode we talk about all the things you might want to think about to make your own apps as resilient as possible. From versioning your APIs to tricking your users, we got you covered!"
+
+description: 	"Crashing apps, everyone hates them! So in this episode we talk about all the things you might want to think about to make your own apps as resilient as possible. From versioning your APIs to tricking your users, we got you covered!"
+
+type:			full # "trailer" or "full"
+duration: 		"37:23" # audio length in min
+length: 		"37461912" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210203_ResiliencyInMobileApps.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Mac Rumors SD Cards](https://9to5mac.com/2021/01/14/kuo-details-2021-macbook-pro-new-design-with-squared-off-sides-magsafe-connector-and-io-return-touch-bar-removed/)
+* [Link to Gerald's YouTube channel ;-)](https://www.youtube.com/GeraldVersluis)
+* [Polly](https://github.com/App-vNext/Polly)
+* [Reactive Extensions for .Net](https://github.com/dotnet/reactive)
+* [ASP.NET Core Versioning HowTo](https://www.hanselman.com/blog/aspnet-core-restful-web-api-versioning-made-easy)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
