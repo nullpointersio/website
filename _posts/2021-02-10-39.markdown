@@ -1,0 +1,33 @@
+---
+layout:         episode
+date: 			2021-02-10 00:00:00
+
+title: 			"39: Backgrounding in Apps"
+url:        "39"
+subtitle: 	"Where's my app!?"
+summary: 		"Apps perform a lot of tasks for you, even ones you might not know about. Where do they do them you ask? Well, in the background of course! Today you will learn all about how to do that yourself!"
+
+description: 	"Apps perform a lot of tasks for you, even ones you might not know about. Where do they do them you ask? Well, in the background of course! Today you will learn all about how to do that yourself!"
+
+type:			full # "trailer" or "full"
+duration: 		"37:51" # audio length in min
+length: 		"31486953" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210210_BackgroundInApps.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Android Services docs](https://developer.android.com/guide/components/services) 
+* [iOS Backgrounding docs](https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/backgrounding/introduction-to-backgrounding-in-ios)
+* [GameStop podcast](https://www.npr.org/2021/01/25/960454567/cant-stop-gamestop)
+* [Shiny](https://github.com/shinyorg/shiny)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
