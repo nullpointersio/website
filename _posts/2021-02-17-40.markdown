@@ -1,0 +1,43 @@
+---
+layout:         episode
+date: 			2021-02-17 00:00:00
+
+title: 			"40: Clean Code"
+url:        	"40"
+subtitle: 		"Who left their dirty code on the floor?"
+summary: 		"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be "just fine right"? Well, tune in and find out our opinions and experiences all around writing Clean Code."
+
+description: 	"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be "just fine right"? Well, tune in and find out our opinions and experiences all around writing Clean Code.
+
+type:			full # "trailer" or "full"
+duration: 		"40:05" # audio length in min
+length: 		"35516255" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210217_CleanCode.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Android Services docs](https://developer.android.com/guide/components/services) 
+* [iOS Backgrounding docs](https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/backgrounding/introduction-to-backgrounding-in-ios)
+* [GameStop podcast](https://www.npr.org/2021/01/25/960454567/cant-stop-gamestop)
+* [Shiny](https://github.com/shinyorg/shiny)
+* [Intel vs M1 "Benchmark"](https://www.theverge.com/2021/2/8/22272041/intel-apple-macbook-m1-performance-benchmarks-processors)
+* [M1 Episode](https://nullpointers.io/28/)
+* [Daniel Hindrikes blog M1](https://danielhindrikes.se/index.php/2021/02/01/review-of-apple-macbook-pro-m1/)
+* [Uncle Bob](https://twitter.com/unclebobmartin)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+* Books we mentioned:
+  * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) aka the Gang of Four Book
+  * [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
+  * [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+  * [Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
