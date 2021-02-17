@@ -5,9 +5,9 @@ date: 			2021-02-17 00:00:00
 title: 			"40: Clean Code"
 url:        	"40"
 subtitle: 		"Who left their dirty code on the floor?"
-summary: 		"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be "just fine right"? Well, tune in and find out our opinions and experiences all around writing Clean Code."
+summary: 		"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be just fine right? Well, tune in and find out our opinions and experiences all around writing Clean Code."
 
-description: 	"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be "just fine right"? Well, tune in and find out our opinions and experiences all around writing Clean Code.
+description: 	"Writing code can be fun, especially when you start a new project. But then time passes and all of a sudden adding or changing existing features gets hard. Things begin to break unexpectedly, and stuff starts to feel messy. But it does not have to be that way. A well-structured app and a few guidelines are here to help us all. If we follow the SOLID principle and all the other Clean Code acronyms, everything will be just fine right? Well, tune in and find out our opinions and experiences all around writing Clean Code."
 
 type:			full # "trailer" or "full"
 duration: 		"40:05" # audio length in min
