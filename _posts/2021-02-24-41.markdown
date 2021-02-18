@@ -1,0 +1,30 @@
+---
+layout:         episode
+date: 			2021-02-24 00:00:00
+
+title: 			"41: Being Productive"
+url:        	"41"
+subtitle: 		"How we do all the things we do"
+summary: 		"A question we get asked is: how do you have time to do all these things?! Spoiler alert: we have no clue! But we have opinions, tips, pointers (get it...?) and bad jokes, so we're going to talk about how to be productive and not get distrac... Is that a unicorn?!"
+
+description: 	"A question we get asked is: how do you have time to do all these things?! Spoiler alert: we have no clue! But we have opinions, tips, pointers (get it...?) and bad jokes, so we're going to talk about how to be productive and not get distrac... Is that a unicorn?!"
+
+type:			full # "trailer" or "full"
+duration: 		"39:39" # audio length in min
+length: 		"37534128" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210224_BeingProductive.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Scott Hanselman Productivity Tips](https://www.hanselman.com/blog/scott-hanselmans-complete-list-of-productivity-tips); basically the only link we need cause it has it all
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
