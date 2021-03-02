@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-03-03 00:00:00
+
+title: 			"42: .NET 6 Preview 1"
+url:        	"42"
+subtitle: 		"Diving into what's new"
+summary: 		"The recently released .NET 6 Preview 1 comes with a lot of new bits and bobs. We will use this pod to go over them and see what's useful for us and what isn't. Also, hairdressers are a booming topic right now."
+
+description: 	"The recently released .NET 6 Preview 1 comes with a lot of new bits and bobs. We will use this pod to go over them and see what's useful for us and what isn't. Also, hairdressers are a booming topic right now."
+
+type:			full # "trailer" or "full"
+duration: 		"35:25" # audio length in min
+length: 		"29589682" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210303_NET6Preview1.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Download .NET 6 Preview 1](https://dotnet.microsoft.com/download/dotnet/6.0)
+* [What's new in .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
+* [Themesof.net](https://themesof.net)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
