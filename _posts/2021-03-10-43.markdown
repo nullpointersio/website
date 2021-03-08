@@ -5,9 +5,9 @@ date: 			2021-03-10 00:00:00
 title: 			"43: Microsoft Ignite 2021 Recap"
 url:        	"43"
 subtitle: 		"Gotta catch it all!"
-summary: 		"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokémon Go? Tune in for our highlights and takes!"
+summary: 		"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokemon Go? Tune in for our highlights and takes!"
 
-description: 	"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokémon Go? Tune in for our highlights and takes!"
+description: 	"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokemon Go? Tune in for our highlights and takes!"
 
 type:			full # "trailer" or "full"
 duration: 		"36:56" # audio length in min
