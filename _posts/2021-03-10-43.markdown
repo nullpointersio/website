@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-03-10 00:00:00
+
+title: 			"43: Microsoft Ignite 2021 Recap"
+url:        	"43"
+subtitle: 		"Gotta catch it all!"
+summary: 		"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokémon Go? Tune in for our highlights and takes!"
+
+description: 	"You can't really have missed it: Microsoft Ignite 2021 edition happened and there was a lot of great announcements. New shiny things for HoloLens, Teams, Azure and... Pokémon Go? Tune in for our highlights and takes!"
+
+type:			full # "trailer" or "full"
+duration: 		"36:56" # audio length in min
+length: 		"33998280" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210310_Ignite2021.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Microsoft Ignite Website](https://myignite.microsoft.com/home)
+* [Visual Studio 2019 16.9 and 16.10-preview](https://devblogs.microsoft.com/visualstudio/vs2019-v16-9-and-v16-10-preview-1/)
+* [Azure Resource Mover](https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-resource-mover-now-generally-available-move-seamlessly/ba-p/2176543)
+* [HoloLens Remote Rendering](https://azure.microsoft.com/services/remote-rendering/)
+* [Azure Communication Services](https://azure.microsoft.com/services/communication-services/)
+* [Microsoft Ignite 2021 Book of News](https://news.microsoft.com/ignite-march-2021-book-of-news/)
+* [Free Microsoft Exam](https://csc.docs.microsoft.com/ignite/registration/March2021)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
