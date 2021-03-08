@@ -1,0 +1,41 @@
+---
+layout:         episode
+date: 			2021-03-17 00:00:00
+
+title: 			"44: Low cost websites"
+url:        	"44"
+subtitle: 		"Building websites on a budget."
+summary: 		"So it is 2021 and creating a website and running a website can still cost you a small fortune. Do you really need a webserver, database and whatnot for a simple blog? In this episode we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
+
+description: 	"So it is 2021 and creating a website and running a website can still cost you a small fortune. Do you really need a webserver, database and whatnot for a simple blog? In this episode we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
+
+type:			full # "trailer" or "full"
+duration: 		"32:42" # audio length in min
+length: 		"29014173" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210317_LowCostWebsites.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Bill Gates favorite mobile platform](https://myignite.microsoft.com/home)
+* [The LAMP Stack](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29)
+* [Mini Blog]( https://github.com/madskristensen/MiniBlog)
+* [Open Live Writer](https://openlivewriter.com/blog/)
+* [Our static website 🤓](https://nullpointers.io)
+* [Azure Static Websites]( https://azure.microsoft.com/en-us/services/app-service/static/)
+* [Jekyll](https://jekyllrb.com/)
+* [Hugo](https://gohugo.io/)
+* [Gatsby](https://www.gatsbyjs.com/)
+* [GitHub Pages](https://pages.github.com/)
+* [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)
+* [Cloud Flare](https://www.cloudflare.com/en-gb/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
