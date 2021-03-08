@@ -5,9 +5,9 @@ date: 			2021-03-17 00:00:00
 title: 			"44: Low cost websites"
 url:        	"44"
 subtitle: 		"Building websites on a budget."
-summary: 		"So it is 2021 and creating a website and running a website can still cost you a small fortune. Do you really need a webserver, database and whatnot for a simple blog? In this episode we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
+summary: 		"So it is 2021, and creating a website and running a website can still cost you a small fortune. Do you really need a web server, database and whatnot for a simple blog? In this episode, we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
 
-description: 	"So it is 2021 and creating a website and running a website can still cost you a small fortune. Do you really need a webserver, database and whatnot for a simple blog? In this episode we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
+description: 	"So it is 2021, and creating a website and running a website can still cost you a small fortune. Do you really need a web server, database and whatnot for a simple blog? In this episode, we discuss static websites and how you can use them on a budget to create websites for big and small demands. So tune in and enjoy the opinions and stories."
 
 type:			full # "trailer" or "full"
 duration: 		"32:42" # audio length in min
