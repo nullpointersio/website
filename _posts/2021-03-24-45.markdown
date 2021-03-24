@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-03-24 00:00:00
+
+title: 			"45: Privacy In Apps"
+url:        	"45"
+subtitle: 		"How to keep your personal details personal."
+summary: 		"Apps process data. A lot of data. But how do apps ensure that that data isn't shared with people that you don't want to share it with? That's what we're diving into today."
+
+description: 	"Apps process data. A lot of data. But how do apps ensure that that data isn't shared with people that you don't want to share it with? That's what we're diving into today."
+
+type:			full # "trailer" or "full"
+duration: 		"36:10" # audio length in min
+length: 		"28886791" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210324_PrivacyInApps.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Is Silicon Ready?](https://isapplesiliconready.com/for/developer)
+* [Facebook Pixel](https://www.facebook.com/business/help/742478679120153?id=1205376682832142)
+* [How Target Figured Out A Teen Girl Was Pregnant](https://www.facebook.com/business/help/742478679120153?id=1205376682832142)
+* [Or Did They?](https://www.facebook.com/business/help/742478679120153?id=1205376682832142)
+* [Apple Privacy Questionaire](https://developer.apple.com/app-store/app-privacy-details/)
+* [Facebook App Store Privacy](https://www.forbes.com/sites/kateoflahertyuk/2021/03/12/apple-just-hit-out-at-google-and-facebook-with-striking-new-privacy-move)
+* [DuckDuckGo](https://www.duckduckgo.com)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
