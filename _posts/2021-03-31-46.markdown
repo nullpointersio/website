@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-03-31 00:00:00
+
+title: 			"46: Becoming a generalist or a specialist"
+url:        	"46"
+subtitle: 		"Applying our special knowledge in a general sense."
+summary: 		"In this weeks pod, Mark, Steven and Gerald discuss becoming a Generalist or a Specialist. What pays more? What are the pros and cons? Oh, and of course, Ts are discussed. So tune in and enjoy this special episode in a general sense."
+
+description: 	"In this weeks pod Mark, Steven and Gerald discuss becoming a Generalist or a Specialist. What pays more? What are the pros and cons? Oh and of course Ts are discussed. So tune in and enjoy this special episode in a general sense."
+
+type:			full # "trailer" or "full"
+duration: 		"31:24" # audio length in min
+length: 		"26441151" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210331_GernilstVsSpecialist.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Bart de Smet](https://www.linkedin.com/in/bartdesmet)
+* [Filip W](https://twitter.com/filip_woj)
+* [T-Shaped Skills](https://en.wikipedia.org/wiki/T-shaped_skills)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
