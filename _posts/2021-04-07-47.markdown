@@ -1,0 +1,40 @@
+---
+layout:         episode
+date: 			2021-04-07 00:00:00
+
+title: 			"47: Object Relational Mappers (ORMs)"
+url:        	"47"
+subtitle: 		"Who needs SQL anyway?"
+summary: 		"Tune in while we talk all about object relational mappers. OK, mostly Entity Framework because of the .NET developers we are. But also we touch on Dapper, document databases, our migration nightmares and even Steven and Gerald's mothers... Now if that doesn't convince you to listen I don't know what will!"
+
+description: 	"Tune in while we talk all about object relational mappers. OK, mostly Entity Framework because of the .NET developers we are. But also we touch on Dapper, document databases, our migration nightmares and even Steven and Gerald's mothers... Now if that doesn't convince you to listen I don't know what will!"
+
+type:			full # "trailer" or "full"
+duration: 		"38:01" # audio length in min
+length: 		"35026824" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210407_ORMs.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Null Pointers Privacy Episode](https://nullpointers.io/45/)
+* [Facebook Data Breach](https://www.theverge.com/22367727/facebook-data-breach-haveibeenpwned)
+* [Entity Framework](https://docs.microsoft.com/ef/)
+* [SQLite](https://www.sqlite.org/)
+* [Dapper](https://github.com/StackExchange/Dapper)
+* [Null Pointers Testing Episode](https://nullpointers.io/24/)
+* [F# ORM Framework](Mark should update this. If not, blame him)
+* [Migrations](https://docs.microsoft.com/ef/core/managing-schemas/migrations/)
+* [Document Databases vs Relational Databases](https://www.pluralsight.com/blog/software-development/relational-vs-non-relational-databases)
+* [EF Core SQL Injection](https://docs.microsoft.com/ef/core/querying/raw-sql)
+* [XKCD SQL Injection](https://xkcd.com/327/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
