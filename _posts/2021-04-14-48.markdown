@@ -1,0 +1,41 @@
+---
+layout:         episode
+date: 			2021-04-14 00:00:00
+
+title: 			"48: Integrated Development Environments (IDEs)"
+url:        	"48"
+subtitle: 		"Or do we mean Interplanetary Dust Experiment?"
+summary: 		"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+
+description: 	"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+
+type:			full # "trailer" or "full"
+duration: 		"40:21" # audio length in min
+length: 		"32088979" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210414_IDEs.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Netbeans](https://netbeans.apache.org/) 
+* [Jetbrains Rider](https://www.jetbrains.com/rider/) 
+* [Eclipse](https://www.eclipse.org/ide/)
+* [Delphi](https://www.embarcadero.com/products/delphi) 
+* [Visual Studio](https://visualstudio.microsoft.com/) 
+* [.NET Hot Reload](https://visualstudiomagazine.com/articles/2021/04/09/net6-preview3.aspx) 
+* [Resharper](https://www.jetbrains.com/resharper/)
+* [VS Code](https://code.visualstudio.com/) 
+* [Vysor](https://www.vysor.io/)
+* [MFractor](https://www.mfractor.com/)
+* [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager) 
+* [VIM](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
