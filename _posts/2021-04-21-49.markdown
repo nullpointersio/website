@@ -24,7 +24,7 @@ block: 			"no" # means is shown in iTunes
 {{page.description}}
 
 * [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
-* [Big Dutch databreach](please-update-me-steven)
+* [Big Dutch databreach](https://tekdeeps.com/millions-of-passwords-on-the-street-through-hack-webshop-allekabels-nl/)
 * [Why use HTTPs](https://www.ncsc.gov.uk/blog-post/serve-websites-over-https-always) by NCSC
 * [Yubikey](https://en.wikipedia.org/wiki/YubiKey)
 * [Steven MSAL blog](https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/)
