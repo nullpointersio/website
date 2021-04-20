@@ -1,0 +1,38 @@
+---
+layout:         episode
+date: 			2021-04-21 00:00:00
+
+title: 			"49: Authentication"
+url:        	"49"
+subtitle: 		"I mean how hard can it be?"
+summary: 		"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+
+description: 	"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+
+type:			full # "trailer" or "full"
+duration: 		"38:50" # audio length in min
+length: 		"34345909" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210422_Authentication.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/visual-studio-2022/)
+* [Big Dutch databreach](please-update-me-steven)
+* [Why use HTTPs](https://www.ncsc.gov.uk/blog-post/serve-websites-over-https-always) by NCSC
+* [Yubikey](https://en.wikipedia.org/wiki/YubiKey)
+* [Steven MSAL blog](https://www.thewissen.io/implementing-msal-authentication-in-xamarin-forms/)
+* [Azure AD](https://azure.microsoft.com/en-us/services/active-directory/)
+* [Auth0](https://auth0.com/)
+* [Identity Server](https://identityserver4.readthedocs.io/en/latest/)
+* [Keycloak](https://www.keycloak.org/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
