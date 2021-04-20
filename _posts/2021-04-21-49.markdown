@@ -5,9 +5,9 @@ date: 			2021-04-21 00:00:00
 title: 			"49: Authentication"
 url:        	"49"
 subtitle: 		"I mean how hard can it be?"
-summary: 		"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+summary: 		"Authenticating a user is often more than meets the user's eye. In this episode, we discuss the challenges, options and our experiences with said topic. We dive into some OAuth, do our best to pronounce Auth0 and discover the passcode to Geralds top-secret studio vault."
 
-description: 	"The IDE is your friend, or at least we assume it is. It's where your spending most of your time as a developer, most likely. In this episode we discuss our first memories of them, our favorites and things we don't like about them."
+description: 	"Authenticating a user is often more than meets the user's eye. In this episode, we discuss the challenges, options and our experiences with said topic. We dive into some OAuth, do our best to pronounce Auth0 and discover the passcode to Geralds top-secret studio vault."
 
 type:			full # "trailer" or "full"
 duration: 		"38:50" # audio length in min
