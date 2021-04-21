@@ -31,6 +31,7 @@ block: 			"no" # means is shown in iTunes
 * [Azure AD](https://azure.microsoft.com/en-us/services/active-directory/)
 * [Auth0](https://auth0.com/)
 * [Identity Server](https://identityserver4.readthedocs.io/en/latest/)
+* [Identity Server ASP.NET Core template](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate) by [Damien Bowden](https://damienbod.com/)
 * [Keycloak](https://www.keycloak.org/)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
