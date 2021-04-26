@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-04-21 00:00:00
+
+title: 			"50: Null Pointers Origin Story"
+url:        	"50"
+subtitle: 		"Happy Year-o-versary! Sort of."
+summary: 		"Hooray! Episode 50! Normal people would probably wait until 52, but we like round numbers, deal with it. For this special episode we talk all about our experience so far. What do we love, what do we hate and how do we do it."
+
+description: 	"Hooray! Episode 50! Normal people would probably wait until 52, but we like round numbers, deal with it. For this special episode we talk all about our experience so far. What do we love, what do we hate and how do we do it."
+
+type:			full # "trailer" or "full"
+duration: 		"38:18" # audio length in min
+length: 		"34763784" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210428_NullpointersOriginStory.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Zencastr](https://zencastr.com/)
+* [Kevin MacLeod](https://en.wikipedia.org/wiki/Kevin_MacLeod)
+* [GitHub Pages](https://pages.github.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Static Webpages (Jekyll) Episode](https://nullpointers.io/44/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
