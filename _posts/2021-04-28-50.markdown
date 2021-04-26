@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2021-04-21 00:00:00
+date: 			2021-04-26 00:00:00
 
 title: 			"50: Null Pointers Origin Story"
 url:        	"50"
