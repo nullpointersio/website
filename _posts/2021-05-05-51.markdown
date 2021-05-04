@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-05-05 00:00:00
+
+title: 			"51: Old Tech That Is No More"
+url:        	"51"
+subtitle: 		"Is it old or is it just retro/vintage?"
+summary: 		"Things used to be better when we were growing up, but is that truly the case? In this episode we'll be looking at old tech that isn't around anymore to see if our memories might be a bit clouded!"
+
+description: 	"Things used to be better when we were growing up, but is that truly the case? In this episode we'll be looking at old tech that isn't around anymore to see if our memories might be a bit clouded!"
+
+type:			full # "trailer" or "full"
+duration: 		"39:50" # audio length in min
+length: 		"30703849" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210429_OldTech.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [iOS 14.5](https://www.macrumors.com/guide/ios-14-5-features/)
+* [Computer ASMR](https://twitter.com/chefjags/status/1385743779408355330)
+* [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi)
+* [Furby](https://en.wikipedia.org/wiki/Furby)
+* [Old Nokias](https://en.wikipedia.org/wiki/Nokia_3310) 
+* [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64)
+* [Game Boy](https://en.wikipedia.org/wiki/Game_Boy)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
