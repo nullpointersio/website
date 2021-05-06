@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-05-12 00:00:00
+
+title: 			"52: Connecting devices wirelessly"
+url:        	"52"
+subtitle: 		"Because who needs cables?"
+summary: 		"In this episode, we leave the wired space and talk about connecting devices and sending information through thin air. So get ready to hear all about WiFi, Bluetooth, BLE, Airtags and more."
+
+description: 	"In this episode, we leave the wired space and talk about connecting devices and sending information through thin air. So get ready to hear all about WiFi, Bluetooth, BLE, Airtags and more."
+
+type:			full # "trailer" or "full"
+duration: 		"33:29" # audio length in min
+length: 		"31316485" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210512_ConnectingDevices.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [AirTag](https://www.apple.com/airtag/)
+* [U1 chip](https://www.pocket-lint.com/phones/news/apple/149336-how-apple-s-u1-chip-adds-amazing-new-capabilities-to-the-iphone)
+* [Bluetooth origins](https://www.bluetooth.com/about-us/bluetooth-origin/)
+* [What the GATT](https://bluetoothle.wiki/gatt)
+* [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy)
+* [NFC](https://en.wikipedia.org/wiki/Near-field_communication)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
