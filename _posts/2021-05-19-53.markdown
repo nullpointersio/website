@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-05-19 00:00:00
+
+title: 			"53: What's Up With UWP"
+url:        	"53"
+subtitle: 		"UWP, Project Reunion, WinForms, WPF, whaaaat?!"
+summary: 		"Universal Windows Platform (or UWP) is an interesting platform with a lot of potential. Yet, for some reason it doesn't really take off, at least not for cross-platform developers. In this episode we talk about what is up with UWP, a bit of history, some hopes for the future... It's all in here and more!"
+
+description: 	"Universal Windows Platform (or UWP) is an interesting platform with a lot of potential. Yet, for some reason it doesn't really take off, at least not for cross-platform developers. In this episode we talk about what is up with UWP, a bit of history, some hopes for the future... It's all in here and more!"
+
+type:			full # "trailer" or "full"
+duration: 		"33:18" # audio length in min
+length: 		"30427200" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210519_UWP.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Scatman John](https://en.wikipedia.org/wiki/Scatman_John)
+* [UWP on Xbox with Xamarin.Forms](https://www.youtube.com/watch?v=poGr6xR8BHU)
+* [Uno Platform](https://platform.uno/)
+* [Ooui: Xamarin.Forms for Web](https://github.com/praeclarum/Ooui)
+* [Project Reunion](https://docs.microsoft.com/windows/apps/project-reunion/get-started-with-project-reunion)
+* [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/)
+* [Build 2021](https://register.build.microsoft.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
