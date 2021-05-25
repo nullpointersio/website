@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-05-26 00:00:00
+
+title: 			"54: Documentation"
+url:        	"54"
+subtitle: 		"We all love writing it, right guys? Guys? ...."
+summary: 		"Documenting what you're building is one of those things that isn't every developers favorite activity. However, doing so helps everyone from yourself to the people who might take over your project in the future. Today we talk about why that is and what you can do to help people."
+
+description: 	"Documenting what you're building is one of those things that isn't every developers favorite activity. However, doing so helps everyone from yourself to the people who might take over your project in the future. Today we talk about why that is and what you can do to help people."
+
+type:			full # "trailer" or "full"
+duration: 		"37:34" # audio length in min
+length: 		"28965261" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210526_Documentation.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [The driving senator](https://www.theguardian.com/us-news/2021/may/07/footage-reveals-ohio-state-senator-driving-during-zoom-call)
+* [MS Docs](https://docs.microsoft.com/)
+* [Sandcastle](https://en.wikipedia.org/wiki/Sandcastle_(software)) 
+* [XCT Docs](https://docs.microsoft.com/en-us/xamarin/community-toolkit)
+* [Draw.io](https://draw.io/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
