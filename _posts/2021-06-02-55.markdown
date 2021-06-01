@@ -1,0 +1,33 @@
+---
+layout:         episode
+date: 			2021-06-02 00:00:00
+
+title: 			"55: Microsoft Build 2021"
+url:        	"55"
+subtitle: 		"You get a new shiny thing, you get a new shiny thing!"
+summary: 		"Microsoft Build has traditionally been the place where all new shiny things for developers get announced. And while this year's edition was a bit more Azure heavy, we still managed to find a few nuggets of information that we'd love to share."
+
+description: 	"Microsoft Build has traditionally been the place where all new shiny things for developers get announced. And while this year's edition was a bit more Azure heavy, we still managed to find a few nuggets of information that we'd love to share."
+
+type:			full # "trailer" or "full"
+duration: 		"39:27" # audio length in min
+length: 		"30421597" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210602_Build2021.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Maui Weather 2021](https://github.com/davidortinau/WeatherTwentyOne)
+* [No more curly braces!](https://twitter.com/aspnet/status/1397216301727326220)
+* [Rejected app requiring minimum 3* reviews](https://www.theverge.com/2021/5/26/22454468/ios-app-scam-review-3-star-force-review-process-apple)
+* [MS Build 2021](https://mybuild.microsoft.com/home)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
