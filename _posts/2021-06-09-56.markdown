@@ -32,7 +32,7 @@ block: 			"no" # means is shown in iTunes
 * [Windings](https://docs.microsoft.com/en-us/typography/font-list/wingdings)
 * [Font Awesome](https://fontawesome.com/)
 * [Svg repo](https://www.svgrepo.com/)
-* Coloured fonts
+* [Coloured fonts](https://www.colorfonts.wtf/)
 * [Making your website dance](https://www.troyhunt.com/introducing-you-to-browser-security/) by Troy Hunt
 
 
