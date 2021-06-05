@@ -1,0 +1,42 @@
+---
+layout:         episode
+date: 			2021-06-09 00:00:00
+
+title: 			"56: Fonts and Icons"
+url:        	"56"
+subtitle: 		"Because the little things matter too."
+summary: 		"You have your app idea; you got a picture of the design, even found that gradient. But don't stop there. What about your fonts and icons? In this episode, we talk about fonts, icons, where you can get them and what to look out for."
+
+description: 	"You have your app idea; you got a picture of the design, even found that gradient. But don't stop there. What about your fonts and icons? In this episode, we talk about fonts, icons, where you can get them and what to look out for."
+
+type:			full # "trailer" or "full"
+duration: 		"31:06" # audio length in min
+length: 		"27673631" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210602_FontsAndIcons.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Starlink](https://www.starlink.com/)
+* [Microsofts next default font](https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/)
+* [VS Code explosive fonts](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+* [VS Code Neon fonts](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+* [Google fonts](https://fonts.google.com/)
+* [SVG images to font](https://www.thewissen.io/generating-your-own-custom-icon-font-made-easy/) by Steven Thewissen
+* [Windings](https://docs.microsoft.com/en-us/typography/font-list/wingdings)
+* [Font Awesome](https://fontawesome.com/)
+* [Svg repo](https://www.svgrepo.com/)
+* Coloured fonts
+* [Making your website dance](https://www.troyhunt.com/introducing-you-to-browser-security/) by Troy Hunt
+
+
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
