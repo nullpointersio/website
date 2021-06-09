@@ -1,0 +1,30 @@
+---
+layout:         episode
+date: 			2021-06-16 00:00:00
+
+title: 			"57: Getting Fit"
+url:        	"57"
+subtitle: 		"No pain, no gain 💪"
+summary: 		"The pandemic slowly seems to be contained, time to go out and get fit again! At least, we have been home much which didn't always treat us right. In this episode we talk about what we do to get fit and how much it hurts!"
+
+description: 	"The pandemic slowly seems to be contained, time to go out and get fit again! At least, we have been home much which didn't always treat us right. In this episode we talk about what we do to get fit and how much it hurts!"
+
+type:			full # "trailer" or "full"
+duration: 		"42:33" # audio length in min
+length: 		"38550216" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210616_GettingFit.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* 
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
