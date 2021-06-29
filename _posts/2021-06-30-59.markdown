@@ -1,0 +1,39 @@
+---
+layout:         episode
+date: 			2021-06-30 00:00:00
+
+title: 			"59: Automating stuff"
+url:        	"59"
+subtitle: 		"But what stuff? Find out!"
+summary: 		"Being in IT means that automation is always something that's top of mind. Be it something in your development pipeline or something at home. We cover a range of automation bits and bobs in this episode."
+
+description: 	"Being in IT means that automation is always something that's top of mind. Be it something in your development pipeline or something at home. We cover a range of automation bits and bobs in this episode."
+
+type:			full # "trailer" or "full"
+duration: 		"41:41" # audio length in min
+length: 		"32578614" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210630_AutomatingStuff.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [.NET MAUI Pre5 Release Notes](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-5/) 
+* [Geralds YouTube on Maui Pre5](https://www.youtube.com/watch?v=7N3cbDd2y2k)
+* [MVP App](https://github.com/sthewissen/mvp)
+* [Cake](https://cakebuild.net/)
+* [Fake](https://fake.build/)
+* [Nuke](https://nuke.build/)
+* [Xkcd](https://xkcd.com/1319/)  
+* [Geralds sunscreen automation wire thing](https://jfversluis.dev/SunscreenAutomation.jpeg)
+* [iOS Shortcut](https://apps.apple.com/us/app/shortcuts/id915249334)
+* [Home Automation episode](https://nullpointers.io//) 
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
