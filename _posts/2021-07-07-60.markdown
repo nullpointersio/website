@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-07-07 00:00:00
+
+title: 			"60: Public Speaking"
+url:        	"60"
+subtitle: 		"The one where Mark is nervous!"
+summary: 		"Between the three of us we have quite some experience with public speaking and going to conferences. In this episode we will share our experiences, fears and more. Also; what is up with all the Windows 11 panic?!"
+
+description: 	"Between the three of us we have quite some experience with public speaking and going to conferences. In this episode we will share our experiences, fears and more. Also; what is up with all the Windows 11 panic?!"
+
+type:			full # "trailer" or "full"
+duration: 		"48:20" # audio length in min
+length: 		"44208840" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net//episodes/20210707_PublicSpeaking.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Windows 11 Health Check](https://aka.ms/GetPCHealthCheckApp) (I think this might be taken offline in the meantime because of all the fuss)
+* [Unofficial Windows 11 Upgrade Checker](https://github.com/rcmaehl/WhyNotWin11/)
+* [The Art of Speaking by Scott Hanselman](https://www.hanselman.com/blog/video-the-art-of-speaking-with-scott-hanselman)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
