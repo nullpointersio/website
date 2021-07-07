@@ -2,7 +2,7 @@
 layout:         episode
 date: 			2021-07-07 00:00:00
 
-title: 			"60: Public Speaking"
+title: 			"60: Public Speaking "
 url:        	"60"
 subtitle: 		"The one where Mark is nervous!"
 summary: 		"Between the three of us, we have quite some experience with public speaking and going to conferences. In this episode, we will share our experiences, fears and more. Also, what is up with all the Windows 11 panic?!"
