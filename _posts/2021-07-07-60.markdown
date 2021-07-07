@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2021-07-08 00:00:00
+date: 			2021-07-07 00:00:00
 
 title: 			"60: Public Speaking"
 url:        	"60"
