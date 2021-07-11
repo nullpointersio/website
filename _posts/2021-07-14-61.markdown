@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-07-14 00:00:00
+
+title: 			"61: Versioning Software"
+url:        	"61"
+subtitle: 		"Includes V1.0 of Gerald"
+summary: 		"After quickly discussing if we still have a job once GitHub Co-Pilot goes public, we discuss the ins and outs of versioning software. From semantic, new-newer-newest to other version strategies we have seen along the so far."
+
+description: 	"After quickly discussing if we still have a job once GitHub Co-Pilot goes public, we discuss the ins and outs of versioning software. From semantic, new-newer-newest to other version strategies we have seen along the so far."
+
+type:			full # "trailer" or "full"
+duration: 		"34:15" # audio length in min
+length: 		"31294287" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210714_VersioningSoftware.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Windows 11 Health Check](https://aka.ms/GetPCHealthCheckApp) (I think this might be taken offline in the meantime because of all the fuss)
+* [Unofficial Windows 11 Upgrade Checker](https://github.com/rcmaehl/WhyNotWin11/)
+* [The Art of Speaking by Scott Hanselman](https://www.hanselman.com/blog/video-the-art-of-speaking-with-scott-hanselman)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
