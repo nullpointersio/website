@@ -23,9 +23,11 @@ block: 			"no" # means is shown in iTunes
 
 {{page.description}}
 
-* [Windows 11 Health Check](https://aka.ms/GetPCHealthCheckApp) (I think this might be taken offline in the meantime because of all the fuss)
-* [Unofficial Windows 11 Upgrade Checker](https://github.com/rcmaehl/WhyNotWin11/)
-* [The Art of Speaking by Scott Hanselman](https://www.hanselman.com/blog/video-the-art-of-speaking-with-scott-hanselman)
+* [GitHub Co-Pilot](https://copilot.github.com/)
+* [Geralds Co-Pilot Review](https://www.youtube.com/watch?v=vdOT_xhwgQc)
+* [Leetcode](https://leetcode.com/)
+* [Leetcode solved with GitHub Co-Pilot](https://www.youtube.com/watch?v=FHwnrYm0mNc)
+* [Semantic Versioning](https://semver.org/)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
 
