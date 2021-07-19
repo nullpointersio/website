@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-07-21 00:00:00
+
+title: 			"62: Summer Gadgets"
+url:        	"62"
+subtitle: 		"It's hot outside, what type of stuff are we tinkering with during the summer?"
+summary: 		"In this episode we're talking about the different things we are currently tinkering with in and around the house. From BBQs to Kindles, and lights to airconditioning."
+
+description: 	"In this episode we're talking about the different things we are currently tinkering with in and around the house. From BBQs to Kindles, and lights to airconditioning."
+
+type:			full # "trailer" or "full"
+duration: 		"38:15" # audio length in min
+length: 		"30194097" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210721_SummerGadgets.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Blackwidow and a Windows Phone](https://twitter.com/shanselman/status/1414789060061659142)
+* [Shelly Smart Switches](https://shelly.cloud/products/shelly-1-smart-home-automation-relay/)
+* [Hue Smart Switches](https://www.philips-hue.com/en-us/p/hue-philips-hue-wall-switch-module/046677571160)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
