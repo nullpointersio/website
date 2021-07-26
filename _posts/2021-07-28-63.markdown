@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-07-28 00:00:00
+
+title: 			"63: .NET MAUI Preview 6"
+url:        	"63"
+subtitle: 		"What is going in with .NET MAUI?"
+summary: 		"A new preview of .NET 6 and therefore also .NET MAUI is out: preview 6. So of course, we have to talk all about what is new in this preview and what to expect from preview 7."
+
+description: 	"A new preview of .NET 6 and therefore also .NET MAUI is out: preview 6. So of course, we have to talk all about what is new in this preview and what to expect from preview 7."
+
+type:			full # "trailer" or "full"
+duration: 		"31:52" # audio length in min
+length: 		"29873712" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210728_DotNetMauiPre6.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [.NET MAUI Preview 6 Blog Post](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-6/)
+* [Geralds Video on Preview 6](https://www.youtube.com/watch?v=fnVVa4mVlrI)
+* [.NET MAUI Status Page](https://github.com/dotnet/maui/wiki/Status)
+* [Geralds Video on Using Custom Renderers in .NET MAUI](https://www.youtube.com/watch?v=_EKznvARe8o)
+* [.NET MAUI Roadmap](https://github.com/dotnet/maui/wiki/Roadmap)
+* [Forms to .NET MAUI Transition Sample Repo](https://github.com/jsuarezruiz/xamarin-forms-to-net-maui)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
