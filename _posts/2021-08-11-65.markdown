@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2021-08-11 00:00:00
+
+title: 			"65: Sommer vacation"
+url:        	"65"
+subtitle: 		"Just chilling"
+summary: 		"It's summer, and we are taking this week off to enjoy the sun, the family, friends, bbq and the summer life."
+
+description: 	"It's summer, and we are taking this week off to enjoy the sun, the family, friends, bbq and the summer life."
+
+type:			full # "trailer" or "full"
+duration: 		"1:22" # audio length in min
+length: 		"1138983" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210811_SummerVacation.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Check out our previous episodes for more gravitas](https://nullpointers.io/search)
+* Outro provided by [Mike Koenig](https://soundbible.com/551-Beach-Soundscape-3.html#) under [CC 3.0](https://creativecommons.org/licenses/by/3.0/) which we have shortened a bit
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
