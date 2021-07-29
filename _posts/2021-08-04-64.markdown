@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-08-04 00:00:00
+
+title: 			"64: Coding Conventions"
+url:        	"64"
+subtitle: 		"If you could just put that space before your comment..."
+summary: 		"We quickly touch upon Visual Studio 2022 for Mac, which is in private preview at the time of recording. Then we face the question as old as time. How can you work with different people on one code base without starting flamewars whenever you review pull requests? We discuss our experiences, helpers and mindsets in this episode."
+
+description: 	"We quickly touch upon Visual Studio 2022 for Mac, which is in private preview at the time of recording. Then we face the question as old as time. How can you work with different people on one code base without starting flamewars whenever you review pull requests? We discuss our experiences, helpers and mindsets in this episode."
+
+type:			full # "trailer" or "full"
+duration: 		"32:56" # audio length in min
+length: 		"30315761" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210804_CodingConventions.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Visual Studio 2022 for Mac Preview](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview)
+* [Whats new in Maui .Net Preview 6](https://www.youtube.com/watch?v=oGGooc44dhs&list=PLvmaC-XMqeBZnCAEuEcW9LsUnfQm65B1N&index=4) with Gerald
+* [.NET Format](https://github.com/dotnet/format)
+* [SonarQube](https://www.sonarqube.org/)
+* [Stylecop](https://github.com/StyleCop/StyleCop)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
