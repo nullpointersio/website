@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2021-08-18 00:00:00
+
+title: 			"66: After-Holiday Updates!"
+url:        	"66"
+subtitle: 		"After-Holiday Updates"
+summary: 		"Some of us (only Mark) have been on a holiday, so we have things to catch up on! .NET MAUI, Visual Studio, all the things!"
+
+description: 	"Some of us (only Mark) have been on a holiday, so we have things to catch up on! .NET MAUI, Visual Studio, all the things!"
+
+type:			full # "trailer" or "full"
+duration: 		"40:13" # audio length in min
+length: 		"31234781" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210818_BackToWork.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [VS2019](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes#release-notes-icon-visual-studio-2019-version-16110-newestreleaseicon)
+* [.NET MAUI](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-7/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
