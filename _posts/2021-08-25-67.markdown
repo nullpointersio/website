@@ -5,9 +5,9 @@ date: 			2021-08-25 00:00:00
 title: 			"67: Managing Email"
 url:        	"67"
 subtitle: 		"Welcome Back to Work!"
-summary: 		"Managing e-mail is such a chore. Especially when you come back from vacation and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
+summary: 		"Managing e-mail is such a chore. Especially when you come back from vacation, and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
 
-description: 	"Managing e-mail is such a chore. Especially when you come back from vacation and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
+description: 	"Managing e-mail is such a chore. Especially when you come back from vacation, and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
 
 type:			full # "trailer" or "full"
 duration: 		"43:27" # audio length in min
