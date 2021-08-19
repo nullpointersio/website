@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-08-25 00:00:00
+
+title: 			"67: Managing Email"
+url:        	"67"
+subtitle: 		"Welcome Back to Work!"
+summary: 		"Managing e-mail is such a chore. Especially when you come back from vacation and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
+
+description: 	"Managing e-mail is such a chore. Especially when you come back from vacation and a humongous pile of it is looking straight at you. Is a Tinder-style application THE solution here? Find out in this episode!"
+
+type:			full # "trailer" or "full"
+duration: 		"43:27" # audio length in min
+length: 		"39270600" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210825_ManagingEmail.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Twitter Font Change](https://www.theverge.com/2021/8/11/22620438/twitter-changes-font-chirp-design-icon)
+* [MvvmLight is no more](https://twitter.com/LBugnion/status/1426162823101566976?s=20)
+* [Scott Hanselman - One Email Rule](https://www.hanselman.com/blog/one-email-rule-have-a-separate-inbox-and-an-inbox-cc-to-reduce-email-stress-guaranteed)
+* [Bot Episode](https://nullpointers.io/37/)
+* [More people struggle with this...](https://twitter.com/cecilphillip/status/1427287003217993731?s=21)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
