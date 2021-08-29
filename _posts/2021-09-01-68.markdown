@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-09-01 00:00:00
+
+title: 			"68: .NET Hybrid Apps"
+url:        	"68"
+subtitle: 		"Web/Desktop/Hybrid/Blazor Show"
+summary: 		"Today we can write websites that run as desktop apps. Such hybrid apps are usually built using HTML, javascript and CSS. But with .NET 6, Blazor will provide a solution for writing hybrid apps in .NET. Crazy right? But it gets even better. Using .NET MAUI, you can extend your website with native features. Sounds great? Well, let us tell you all about it and our opinions on the topic."
+
+description: 	"Today we can write websites that run as desktop apps. Such hybrid apps are usually built using HTML, javascript and CSS. But with .NET 6, Blazor will provide a solution for writing hybrid apps in .NET. Crazy right? But it gets even better. Using .NET MAUI, you can extend your website with native features. Sounds great? Well, let us tell you all about it and our opinions on the topic."
+
+type:			full # "trailer" or "full"
+duration: 		"30:40" # audio length in min
+length: 		"27905337" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210901_BlazorDesktop.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Android Studio: M1 vs Intel i9](https://www.youtube.com/watch?v=63_lB0mB6O0&list=PLPwbI_iIX3aSIKJOpjTfyNDFmt4zl294u&index=8) by [Alexander Ziskind](https://www.youtube.com/channel/UCajiMK_CY9icRhLepS8_3ug)
+* [Android Studio: M1 vs Ryzen 9](https://www.youtube.com/watch?v=63_lB0mB6O0&list=PLPwbI_iIX3aSIKJOpjTfyNDFmt4zl294u&index=8) by [Alexander Ziskind](https://www.youtube.com/channel/UCajiMK_CY9icRhLepS8_3ug)
+* [Azure SQL Edge](https://docs.microsoft.com/en-us/azure/azure-sql-edge/overview) the lightweight MS SQL alternative running on ARM
+* [MacRumors Mac Buyersguide](https://buyersguide.macrumors.com/)
+* [Blazor Mobile Bindings](https://github.com/dotnet/MobileBlazorBindings)
+* [Blazor MAUI Hybrid Apps](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/#net-maui-blazor-apps)
+* [Blazor Desktop](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/#blazorwebview-controls-for-wpf-windows-forms)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
