@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-09-08 00:00:00
+
+title: 			"69: Learning a new language"
+url:        	"69"
+subtitle: 		"And we're not talking a spoken language!"
+summary: 		"Today we sit down and discuss learning new coding languages. We've all been programming in C# for a while now, but what new languages are we looking to pick up? And is it even easy to start to learn a new one? What does it all entail? Let's find out together!"
+
+description: 	"Today we sit down and discuss learning new coding languages. We've all been programming in C# for a while now, but what new languages are we looking to pick up? And is it even easy to start to learn a new one? What does it all entail? Let's find out together!"
+
+type:			full # "trailer" or "full"
+duration: 		"35:28" # audio length in min
+length: 		"27777500" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210908_LearningANewLanguage.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Insta age verification](https://www.theverge.com/2021/8/30/22648578/instagram-age-birthday-requirement-younger-people-ai-verification)
+* [Rockstar](https://github.com/RockstarLang/rockstar)
+* [Fabulous](https://github.com/fsprojects/Fabulous)
+* [Typescript](https://www.typescriptlang.org/)
+* [Kusto](https://docs.microsoft.com/azure/data-explorer/kusto/concepts/)
+* [Minimalistic APIs](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
