@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2021-09-15 00:00:00
+
+title: 			"70: What is Happening With Xamarin.Forms?!"
+url:        	"70"
+subtitle: 		".NET MAUI is the hip new thing, where does that leave Forms?"
+summary: 		"In this pod we talk about the current status and future of Xamarin.Forms. Everyone is talking about .NET MAUI nowadays, but is Xamarin.Forms also still getting some love? And why is Forms becoming .NET MAUI anyway? And why is there a baby crying?!"
+
+description: 	"In this pod we talk about the current status and future of Xamarin.Forms. Everyone is talking about .NET MAUI nowadays, but is Xamarin.Forms also still getting some love? And why is Forms becoming .NET MAUI anyway? And why is there a baby crying?!"
+
+type:			full # "trailer" or "full"
+duration: 		"33:58" # audio length in min
+length: 		"30987168" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210915_WhatHappensWithForms.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Xamarin Community Toolkit .NET MAUI Compat Blog Post](https://devblogs.microsoft.com/xamarin/introducing-net-maui-compatibility-for-the-xamarin-community-toolkit/)
+* [.NET MAUI Community Toolkit Blog Post](https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/)
+* [Xamarin.Forms Repo](https://github.com/xamarin/Xamarin.Forms)
+* [.NET MAUI Repo](https://github.com/dotnet/maui)
+* [.NET Upgrade Assistant](https://dotnet.microsoft.com/platform/upgrade-assistant)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
