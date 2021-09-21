@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2021-09-22 00:00:00
+
+title: 			"71: Virtual Development Environments"
+url:        	"71"
+subtitle: 		"Should we all be working in a Simulation?"
+summary: 		"Virtual Machines are nothing new. They have been around for many years. Maybe you have even used some in the past as a development environment. But these days, virtual dev environments are making a significant comeback. Powered with Docker and using Visual Studio Code in the Frontend, the cloud is the limit. Is it time to make the switch?"
+
+description: 	"Virtual Machines are nothing new. They have been around for many years. Maybe you have even used some in the past as a development environment. But these days, virtual dev environments are making a significant comeback. Powered with Docker and using Visual Studio Code in the Frontend, the cloud is the limit. Is it time to make the switch?"
+
+type:			full # "trailer" or "full"
+duration: 		"35:58" # audio length in min
+length: 		"33336087" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20210922_VirtualDevEnvironments.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Docker Pricing](https://www.docker.com/blog/updating-product-subscriptions/)
+* [VM Ware Fusion](https://www.vmware.com/products/fusion.html)
+* [Parallels](https://www.parallels.com/)
+* [Virtual Box](https://www.virtualbox.org/)
+* [Docker and VS Code](https://code.visualstudio.com/docs/remote/create-dev-container)
+* [GitHub Codespaces](https://github.com/features/codespaces)
+* [GitHub Codespaces being developed using Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/ )
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
