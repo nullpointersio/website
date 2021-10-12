@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2021-10-13 00:00:00
+
+title: 			"72: XamExpertDay And Sad News :("
+url:        	"72"
+subtitle: 		"Luke NOOOOO GIF"
+summary: 		"Last week we had an awesome conference about all things Xamarin and MAUI, let's talk about it! Also, stick around until the end because there will be some sad news. Number 5 will shock you!"
+
+description: 	"Last week we had an awesome conference about all things Xamarin and MAUI, let's talk about it! Also, stick around until the end because there will be some sad news. Number 5 will shock you!"
+
+type:			full # "trailer" or "full"
+duration: 		"37:40" # audio length in min
+length: 		"29164160" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20211013_XamExpertDay.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [XamExpertDay](https://xamexpertday.com)
+* [Gerald's YouTube](https://youtube.com/geraldversluis)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Gerald Versluis](https://twitter.com/jfversluis), [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
