@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2021-11-10 00:00:00
+
+title: 			"74: Awesome UI Components"
+url:        	"74"
+subtitle: 		"Building a UI is hard, OK?"
+summary: 		"Today we talk about all the different things that go into making a UI that's component-based instead of just mashing it all together willy nilly. Future you will thank us!"
+
+description: 	"Today we talk about all the different things that go into making a UI that's component-based instead of just mashing it all together willy nilly. Future you will thank us!"
+
+type:			full # "trailer" or "full"
+duration: 		"36:54" # audio length in min
+length: 		"29550244" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20211110_AwesomeUIComponents.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [.NET Conf](https://www.dotnetconf.net/)
+* [Microsoft Ignite](https://myignite.microsoft.com/home)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
