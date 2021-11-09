@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2021-10-27 00:00:00
+
+title: 			"73: So many new things"
+url:        	"73"
+subtitle: 		"Autumn Season is release season"
+summary: 		"It is this time of year again, so much new tech is released. Not only devices, but also software. So tune in to find out our thoughts on MAUI .NETs latest release, the Microsoft device updates and the new Apple hardware that has just been dropped."
+
+description: 	"It is this time of year again, so much new tech is released. Not only devices, but also software. So tune in to find out our thoughts on MAUI .NETs latest release, the Microsoft device updates and the new Apple hardware that has just been dropped."
+
+type:			full # "trailer" or "full"
+duration: 		"34:21" # audio length in min
+length: 		"32629992" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20211027_NewThings.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [MAUI .NET Preview 9](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9/)
+* [Surface Devices](https://blogs.windows.com/devices/2021/09/22/introducing-new-surface-products-built-for-windows-11/)
+* [Apple Event 2021](https://www.youtube.com/watch?v=exM1uajp--A)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
