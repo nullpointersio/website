@@ -1,0 +1,31 @@
+---
+layout:         episode
+date: 			2021-11-24 00:00:00
+
+title: 			"75: .NET Conf Updates"
+url:        	"75"
+subtitle: 		"Did you see all the fancy new shiny stuff that came out?"
+summary: 		"So .NET Conf happened a few days ago. Steven visited a conference in person. So perfect time to look at all the new shiny stuff that just was released."
+
+description: 	"So .NET Conf happened a few days ago. Steven visited a conference in person. So perfect time to look at all the new shiny stuff that just was released."
+
+type:			full # "trailer" or "full"
+duration: 		"31:38" # audio length in min
+length: 		"31000749" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20211124_NetConf.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Windows 11 not yet running on Apple Silicon](https://www.theverge.com/2021/11/23/22798231/microsoft-qualcomm-exclusivity-deal-windows-on-arm) by the verge
+* [.Net Conf](https://www.dotnetconf.net/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
