@@ -27,7 +27,7 @@ block: 			"no" # means is shown in iTunes
 * [Brandon's Twitter](https://twitter.com/TheCodeTraveler)
 * [Brandon's podcast: 8 Bits](https://8bits.tv/)
 * [GitTrends](https://www.gittrends.com)
-* [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)
+* [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit) home of the C# for Markup extensions for Xamarin.
 * [Comet](https://github.com/dotnet/Comet)
 
 Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
