@@ -1,0 +1,35 @@
+---
+layout:         episode
+date: 			2021-12-08 00:00:00
+
+title: 			"76: Coded UI & Comet"
+url:        	"76"
+subtitle: 		"With our guest, Brandon Minnick!"
+summary: 		"Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we're all crazy for liking XAML so much. Join us in learning why!"
+
+description: 	"Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we're all crazy for liking XAML so much. Join us in learning why!"
+
+type:			full # "trailer" or "full"
+duration: 		"48:30" # audio length in min
+length: 		"38830067" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20211208_CodedUIComet.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Brandon's website](https://codetraveler.io/)
+* [Brandon's Twitter](https://twitter.com/TheCodeTraveler)
+* [Brandon's podcast: 8 Bits](https://8bits.tv/)
+* [GitTrends](https://www.gittrends.com)
+* [Xamarin Community Toolkit](https://github.com/xamarin/XamarinCommunityToolkit)
+* [Comet](https://github.com/dotnet/Comet)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
