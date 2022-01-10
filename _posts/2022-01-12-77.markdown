@@ -5,9 +5,9 @@ date: 			2022-01-12 00:00:00
 title: 			"77: Creating Games with Xamarin Forms"
 url:        	"77"
 subtitle: 		"With our guest, Shaun Lawrence!"
-summary: 		""
+summary: 		"In this weeks episode we talk about making stunning mobile apps. Shaun tells us how he created Super Wordsearch with the help of tools like Skia Sharp and Lottie while using Xamarin Forms."
 
-description: 	"Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we're all crazy for liking XAML so much. Join us in learning why!"
+description: 	"In this weeks episode we talk about making stunning mobile apps. Shaun tells us how he created Super Wordsearch with the help of tools like Skia Sharp and Lottie while using Xamarin Forms."
 
 type:			full # "trailer" or "full"
 duration: 		"36:33" # audio length in min
