@@ -4,7 +4,7 @@ date: 			2022-01-12 00:00:00
 
 title: 			"77: Creating Games with Xamarin Forms"
 url:        	"77"
-subtitle: 		"With our guest, Shawn Lawrence!"
+subtitle: 		"With our guest, Shaun Lawrence!"
 summary: 		""
 
 description: 	"Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we're all crazy for liking XAML so much. Join us in learning why!"
@@ -23,7 +23,7 @@ block: 			"no" # means is shown in iTunes
 
 {{page.description}}
 
-* [Shawn's Twitter](https://twitter.com/Bijington)
+* [Shaun's Twitter](https://twitter.com/Bijington)
 * [Super Wordsearch](https://www.superwordsearch.com)
 * [SkiaSharp](https://github.com/mono/SkiaSharp)
 * [Lottie](https://github.com/Baseflow/LottieXamarin)
