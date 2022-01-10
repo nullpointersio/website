@@ -1,0 +1,34 @@
+---
+layout:         episode
+date: 			2022-01-12 00:00:00
+
+title: 			"77: Creating Games with Xamarin Forms"
+url:        	"77"
+subtitle: 		"With our guest, Shawn Lawrence!"
+summary: 		""
+
+description: 	"Coded UI in Xamarin.Forms is not as popular as using XAML, but if you ask our guest Brandon Minnick we're all crazy for liking XAML so much. Join us in learning why!"
+
+type:			full # "trailer" or "full"
+duration: 		"36:33" # audio length in min
+length: 		"30049671" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20220112_ShaunLawrence.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Shawn's Twitter](https://twitter.com/Bijington)
+* [Super Wordsearch](https://www.superwordsearch.com)
+* [SkiaSharp](https://github.com/mono/SkiaSharp)
+* [Lottie](https://github.com/Baseflow/LottieXamarin)
+* [.NET MAUI Graphics](https://docs.microsoft.com/en-us/dotnet/maui/user-interface/graphics/draw)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
