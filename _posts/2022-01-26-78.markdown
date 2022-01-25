@@ -1,0 +1,33 @@
+---
+layout:         episode
+date: 			2022-01-26 00:00:00
+
+title: 			"78: Winter Musings"
+url:        	"78"
+subtitle: 		"Just musing about a lot of random things"
+summary: 		"Today we cover a lot of different things going on in our lives and the tech world. What kind of gadget did Mark get from his wife for Christmas? Find out!"
+
+description: 	"Today we cover a lot of different things going on in our lives and the tech world. What kind of gadget did Mark get from his wife for Christmas? Find out!"
+
+type:			full # "trailer" or "full"
+duration: 		"42:23" # audio length in min
+length: 		"34439413" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20220126_WinterMusings.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Mark's CO2 Meter (German)](https://eurotronic.org/produkte/sensoren/co2-sensor/)
+* [Steven's Biltong Box](https://twitter.com/devnl/status/1482370506405957632)
+* [Code Challenge Game](https://www.codingame.com/start)
+* [Advent of Code '21](https://adventofcode.com)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
