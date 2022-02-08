@@ -1,0 +1,33 @@
+---
+layout:         episode
+date: 			2022-02-09 00:00:00
+
+title: 			"79: Visiting Blazor with Daniel Hindrikes"
+url:        	"79"
+subtitle: 		"Web development with C# from a mobile dev perspective"
+summary: 		"This week we are joined by our good friend Daniel Hindrikes. Daniel shares his experiences writing Blazor apps. We talk about Web Assembly vs Server hosting, integration into .NET MAUI apps, bindings in Blazor and using Razor Pages to write your UI. Does Daniel miss XAML? Tune in and find out."
+
+description: 	"This week we are joined by our good friend Daniel Hindrikes. Daniel shares his experiences writing Blazor apps. We talk about Web Assembly vs Server hosting, integration into .NET MAUI apps, bindings in Blazor and using Razor Pages to write your UI. Does Daniel miss XAML? Tune in and find out."
+
+type:			full # "trailer" or "full"
+duration: 		"37:52" # audio length in min
+length: 		"35858748" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20220209_DanielBlazor.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Daniel Hindrikes](https://twitter.com/hindrikes) on Twitter
+* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+* [Blazor Mobile Bindings](https://docs.microsoft.com/en-us/mobile-blazor-bindings/)
+* [.NET Frontend Day](https://www.dotnet-frontend.com/)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
