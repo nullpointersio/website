@@ -1,0 +1,33 @@
+---
+layout:         episode
+date: 			2022-02-23 00:00:00
+
+title: 			"80: Anything and everything"
+url:        	"80"
+subtitle: 		"Covering things that are on our minds"
+summary: 		"War of the keyboards?! .NET turned 20?! A new movie coming out?! This episode is packed with things to talk about!"
+
+description: 	"War of the keyboards?! .NET turned 20?! A new movie coming out?! This episode is packed with things to talk about!"
+
+type:			full # "trailer" or "full"
+duration: 		"39:27" # audio length in min
+length: 		"32202858" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20220223_EverythingAnything.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Early Peek C#11 Features](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/)
+* [MAUI Preview 13](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-13/)
+* [The Hottest Movie of the Summer](https://www.theverge.com/2022/2/15/22936250/baby-shark-movie-paramount-plus-announcement)
+* [Gerald's YouTube](https://www.youtube.com/geraldversluis)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
