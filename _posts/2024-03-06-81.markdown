@@ -1,6 +1,6 @@
 ---
 layout:         episode
-date: 			2024-05-06 00:00:00
+date: 			2024-03-06 00:00:00
 
 title: 			"81: Macs and IDEs"
 url:        	"81"
