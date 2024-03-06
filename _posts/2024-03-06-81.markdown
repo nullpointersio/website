@@ -1,0 +1,36 @@
+---
+layout:         episode
+date: 			2024-05-06 00:00:00
+
+title: 			"81: Macs and IDEs"
+url:        	"81"
+subtitle: 		"We're back"
+summary: 		"Looking at Macs, ARM processors and what is happening to IDEs on Mac"
+
+description: 	"It has been a while. So there is a lot to talk about, in this episode we dive into new and old development machines. What is the state on the Mac as a .NET developer when it comes to IDEs and what will Steven be using once Visual Studio for Mac will be out of service."
+
+type:			full # "trailer" or "full"
+duration: 		"39:10" # audio length in min
+length: 		"35947808" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20240306_Mobile_IDES_And_Macs.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Visual Studio Code](https://code.visualstudio.com)
+  * [.NET Plugin](https://code.visualstudio.com/docs/languages/dotnet)
+  * [.NET MAUI Plugin](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)
+
+* [Rider](https://www.jetbrains.com/rider/)
+* [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) Retiring 31. August 2024
+* [GitHub CoPilot](https://github.com/features/copilot)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
