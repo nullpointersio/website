@@ -1,0 +1,32 @@
+---
+layout:         episode
+date: 			2024-03-20 00:00:00
+
+title: 			"82: AI All The Things"
+url:        	"82"
+subtitle: 		"We're now making podcasts with AI"
+summary: 		"Chat GPT, image generators, video generators, AI is everywhere!"
+
+description: 	"What special thing does Mark use ChatGPT for? The answer might amaze you! The truth is, AI is everywhere these days. But is it a good or bad thing?"
+
+type:			full # "trailer" or "full"
+duration: 		"42:41" # audio length in min
+length: 		"37146080" # filesize in byte
+
+file: 			"https://nullpointers.blob.core.windows.net/episodes/20240320_AI.mp3"
+file_type: 		"audio/mp3" # audio/x-m4a, audio/mp3, audio/mpeg, video/quicktime, video/mp4, video/x-m4v, application/pdf, and document/x-epub
+
+explicit: 		"no" # other option is yes
+
+block: 			"no" # means is shown in iTunes
+---
+
+{{page.description}}
+
+* [Filip's Blogpost](https://www.strathweb.com/2023/11/using-your-own-data-with-gpt-models-in-azure-openai-part-1/)
+* [ChatGPT](https://chat.openai.com)
+* [GitHub CoPilot](https://github.com/features/copilot)
+
+Tune in and leave us a comment on [Twitter](https://twitter.com/nullpointersio).
+
+Your Hosts [Mark Allibone](https://twitter.com/mallibone) and [Steven Thewissen](https://twitter.com/devnl).
