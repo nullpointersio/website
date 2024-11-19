@@ -14,7 +14,7 @@ permalink: /about/
 
 Living in Switzerland and working during the day on .NET Solutions with a focus on mobile, IoT and web (mostly backend) development. I enjoy working in teams with an Agile/DevOps mindset and am always trying to improve the things that I am doing.
 During my downtime, I like to do sports, learn new things, [blog](https://mallibone.com), hang out with friends and family or enjoy a walk with the dog.
-You can always find me on [Twitter](https://twitter.com/mallibone) or [GitHub](https://github.com/mallibone) 🙂
+You can always find me on [Bluesky](https://bsky.app/profile/mallibone.com) or [GitHub](https://github.com/mallibone) 🙂
 
 Can be bribed with: Coffee, chocolate, cookies and beer.
 
@@ -22,7 +22,7 @@ Can be bribed with: Coffee, chocolate, cookies and beer.
 
 <img src="{{ site.baseurl }}/images/steven.png" alt="Steven Thewissen" class="muh-avatar" />
 
-A software developer from the Netherlands focusing on Xamarin development, crafting fancy UIs, tinkering in Azure DevOps and developing REST APIs. I started working with Xamarin in 2014 and have been in love with it ever since. When I'm not [coding](https://github.com/sthewissen), you can find me [writing blogs](https://thewissen.io), [tweeting](https://twitter.com/devnl), playing soccer, or just having some fun and the occasional drink with my friends. If you bring cookies, chocolate and/or a nice beer, we can quickly become best friends.
+A software developer from the Netherlands focusing on Xamarin development, crafting fancy UIs, tinkering in Azure DevOps and developing REST APIs. I started working with Xamarin in 2014 and have been in love with it ever since. When I'm not [coding](https://github.com/sthewissen), you can find me [writing blogs](https://thewissen.io), [skeeting](https://bsky.app/profile/thewissen.io), playing soccer, or just having some fun and the occasional drink with my friends. If you bring cookies, chocolate and/or a nice beer, we can quickly become best friends.
 
 ## Former Hosts
 
@@ -36,7 +36,7 @@ I’m mainly focussing on creating apps, especially by the means of Xamarin and 
 
 ## Catch us on the socials!
 
-Twitter - [nullpointersio](https://www.twitter.com/nullpointersio)
+Bluesky - [nullpointersio](https://bsky.app/profile/nullpointers.io)
 
 ### Credits
 
