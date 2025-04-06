@@ -40,4 +40,8 @@ Bluesky - [nullpointersio](https://bsky.app/profile/nullpointers.io)
 
 ### Credits
 
-[Intro Music by Kevin MacLeod](https://incompetech.filmmusic.io/song/4148-nowhere-land). We've taken a short sample from the full sound file and use that clip as our tune. Thank you for allowing us to do so! If you ever read this Kevin, we owe you a drink!
+[Intro Music by Kevin MacLeod](https://incompetech.com/music/royalty-free/mp3-royaltyfree/Nowhere%20Land.mp3). We've taken a short sample from the full sound file and use that clip as our tune. Thank you for allowing us to do so! If you ever read this Kevin, we owe you a drink!
+
+"Nowhere Land" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/

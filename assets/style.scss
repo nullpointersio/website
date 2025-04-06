@@ -1159,6 +1159,21 @@ Modules - reusable parts of our design
 }
 
 
+#episode-credits {
+  text-align: center;
+  margin: 30px auto;
+}
+
+#episode-credits h3 {
+  margin-bottom: 10px;
+}
+
+#episode-credits p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
